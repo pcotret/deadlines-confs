@@ -9,3 +9,13 @@
     - "2023-01-16 23:59"
   place: St. Petersburg, Florida, USA
   tags: [HAR]
+
+- name: FPL
+  year: 2022
+  date: "29 August - 2nd September 2022"
+  description: 32nd International Conference on Field Programmable Logic and Applications
+  link: https://fpl.org/
+  deadline:
+    - "2022-03-07 23:59"
+  place: Belfast, UK
+  tags: [HAR]
