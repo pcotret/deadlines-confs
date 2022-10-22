@@ -10,6 +10,17 @@
   place: St. Petersburg, Florida, USA
   tags: [HAR]
 
+- name: FCCM
+  year: 2023
+  date: "TBD"
+  description: 31th IEEE International Symposium on Field-Programmable Custom Computing Machines
+  link: http://fccm.org
+  deadline:
+    - "2023-01-09 23:59"
+  place: Los Angeles, California, USA
+  tags: [HAR]
+
+
 - name: FPL
   year: 2022
   date: "29 August - 2nd September 2022"
