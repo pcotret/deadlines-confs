@@ -20,7 +20,6 @@
   place: Los Angeles, California, USA
   tags: [HAR]
 
-
 - name: FPL
   year: 2022
   date: "29 August - 2nd September 2022"
@@ -29,4 +28,44 @@
   deadline:
     - "2022-03-07 23:59"
   place: Belfast, UK
+  tags: [HAR]
+
+- name: DSD
+  year: 2022
+  date: "31 August - 2nd September 2022"
+  description: Euromicro DSD/SEAA
+  link: https://dsd-seaa2022.iuma.ulpgc.es
+  deadline:
+    - "2022-01-04 23:59"
+  place: Gran Canaria, Spain
+  tags: [HAR]
+
+- name: NewCAS
+  year: 2022
+  date: "19-22 June 2022"
+  description: 20th IEEE International NEWCAS Conference
+  link: https://newcas2022.org/ 
+  deadline:
+    - "2022-02-18 23:59"
+  place: Quebec, Canada 
+  tags: [HAR]
+
+- name: SILM
+  year: 2022
+  date: "06 June 2022"
+  description: Workshop on the Security of Software / Hardware Interfaces
+  link: https://silm-workshop.github.io/  
+  deadline:
+    - "2022-03-24 23:59"
+  place: Genoa, Italy 
+  tags: [HAR]
+
+- name: CODES+ISSS
+  year: 2022
+  date: "10-12 October June 2022"
+  description: International Conference on Hardware/Software Codesign and System Synthesis
+  link: https://esweek.org/codes-isss/ 
+  deadline:
+    - "2022-03-31 23:59"
+  place: Shanghai, Hybrid 
   tags: [HAR]
