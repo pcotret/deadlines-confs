@@ -239,3 +239,13 @@
     - "2023-04-07 23:59"
   place: Phoenix, USA 
   tags: [HAR]
+
+- name: AsianHOST
+  year: 2022
+  date: "December 14-16 2022"
+  description: Asian Hardware Oriented Security and Trust Symposium 
+  link: http://asianhost.org/2022/index.htm 
+  deadline:
+    - "2022-07-25 23:59"
+  place: Singapore 
+  tags: [HAR,SEC]

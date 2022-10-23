@@ -3,3 +3,7 @@
 - name: Hardware
   tag: HAR
 
+# Security
+- name: Security
+  tag: SEC
+
