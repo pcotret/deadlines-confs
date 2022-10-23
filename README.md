@@ -2,6 +2,11 @@
 
 Based on [sec-deadlines](https://github.com/sec-deadlines/sec-deadlines.github.io) by Bogdan Kulynych
 
+## Some ranking information
+
+- [Link for ranks of conferences](https://www.gdr-soc.cnrs.fr/conferences/)
+- [Link for ranks of security conferences](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
+
 ## Adding/updating a conference
 
 * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`). It's [not a bug][0]. I hate this format too. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that.

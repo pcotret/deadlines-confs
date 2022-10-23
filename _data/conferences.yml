@@ -22,7 +22,7 @@
 
 - name: FPL
   year: 2022
-  date: "29 August - 2nd September 2022"
+  date: "29 August - 2nd September, 2022"
   description: 32nd International Conference on Field Programmable Logic and Applications
   link: https://fpl.org/
   deadline:
@@ -32,7 +32,7 @@
 
 - name: DSD
   year: 2022
-  date: "31 August - 2nd September 2022"
+  date: "31 August - 2nd September, 2022"
   description: Euromicro DSD/SEAA
   link: https://dsd-seaa2022.iuma.ulpgc.es
   deadline:
@@ -42,7 +42,7 @@
 
 - name: NewCAS
   year: 2022
-  date: "June 19-22 2022"
+  date: "June 19-22, 2022"
   description: 20th IEEE International NEWCAS Conference
   link: https://newcas2022.org/ 
   deadline:
@@ -52,7 +52,7 @@
 
 - name: SILM
   year: 2022
-  date: "June 06 2022"
+  date: "June 06, 2022"
   description: Workshop on the Security of Software / Hardware Interfaces
   link: https://silm-workshop.github.io/  
   deadline:
@@ -62,7 +62,7 @@
 
 - name: CODES+ISSS
   year: 2022
-  date: "October 10-12 2022"
+  date: "October 10-12, 2022"
   description: International Conference on Hardware/Software Codesign and System Synthesis
   link: https://esweek.org/codes-isss/ 
   deadline:
@@ -72,7 +72,7 @@
 
 - name: MICRO
   year: 2022
-  date: "October 1-5 2022"
+  date: "October 1-5, 2022"
   description: International Symposium on Microarchitecture
   link: https://www.microarch.org/micro55/submit/papers.php 
   deadline:
@@ -82,7 +82,7 @@
 
 - name: DASIP
   year: 2023
-  date: "January 16-18 2023"
+  date: "January 16-18, 2023"
   description: Workshop on Design and Architectures for Signal and Image Processing
   link: http://dasip23.citsem.upm.es/
   deadline:
@@ -92,7 +92,7 @@
 
 - name: CARRV
   year: 2022
-  date: "June 19 2022"
+  date: "June 19, 2022"
   description: Sixth Workshop on Computer Architecture Research with RISC-V
   link: https://carrv.github.io/2022/
   deadline:
@@ -102,7 +102,7 @@
 
 - name: ICCAD
   year: 2022
-  date: "30 October - 4 November 2022"
+  date: "30 October - 4 November, 2022"
   description: International Conference on Computer-Aided Design
   link: https://iccad.com
   deadline:
@@ -112,7 +112,7 @@
 
 - name: HIPEAC
   year: 2023
-  date: "January 16-18 2023"
+  date: "January 16-18, 2023"
   description: HIPEAC 2023
   link: https://www.hipeac.net/2023/toulouse/#/ 
   deadline:
@@ -122,7 +122,7 @@
 
 - name: ICFPT
   year: 2022
-  date: "December 5-9 2022"
+  date: "December 5-9, 2022"
   description: International Conference on Field Programmable Technology
   link: http://www.icfpt.org 
   deadline:
@@ -132,7 +132,7 @@
 
 - name: ARCS
   year: 2022
-  date: "September 13-15 2022"
+  date: "September 13-15, 2022"
   description: INTERNATIONAL CONFERENCE ON ARCHITECTURE OF COMPUTING SYSTEMS
   link: https://arcs-conference.org/call-for-papers
   deadline:
@@ -142,7 +142,7 @@
 
 - name: ASPDAC
   year: 2023
-  date: "January 16-19 2023"
+  date: "January 16-19, 2023"
   description: 28th Asia and South Pacific Design Automation Conference
   link: https://www.aspdac.com/aspdac2023/author/technical_paper/index.html 
   deadline:
@@ -152,7 +152,7 @@
 
 - name: HPCA
   year: 2023
-  date: "Feb 25 - March 01 2023"
+  date: "Feb 25 - March 01, 2023"
   description: 29th IEEE International Symposium on High-Performance Computer Architecture
   link: https://hpca-conf.org/2023/call-for-papers/ 
   deadline:
@@ -162,7 +162,7 @@
 
 - name: FPGA
   year: 2023
-  date: "February 12-14 2023"
+  date: "February 12-14, 2023"
   description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
   link: http://www.isfpga.org 
   deadline:
@@ -172,7 +172,7 @@
 
 - name: DATE
   year: 2023
-  date: "April 17-19 2023"
+  date: "April 17-19, 2023"
   description: Design, Automation and Test in Europe
   link: http://date-conference.com
   deadline:
@@ -182,7 +182,7 @@
 
 - name: ISCAS
   year: 2023
-  date: "May 21-25 2023"
+  date: "May 21-25, 2023"
   description: IEEE International Symposium on Circuits and Systems
   link: https://confcats-web-assets.s3.amazonaws.com/iscas/2023/iscas23-cfp_web-13.pdf
   deadline:
@@ -202,7 +202,7 @@
 
 - name: ISCA
   year: 2023
-  date: "June 17-23 2023"
+  date: "June 17-23, 2023"
   description: International Symposium on Computer Architecture 
   link: https://iscaconf.org/isca2023/  
   deadline:
@@ -212,7 +212,7 @@
 
 - name: Rapido
   year: 2023
-  date: "January 16-18 2023"
+  date: "January 16-18, 2023"
   description: 15th Workshop on Rapid Simulation and Performance Evaluation for Design Optimization Methods and Tools 
   link: https://rapidoworkshop.github.io/2023/cfp.html  
   deadline:
@@ -222,7 +222,7 @@
 
 - name: ASAP
   year: 2023
-  date: "July 19-21 2023"
+  date: "July 19-21, 2023"
   description: 34th IEEE International Conference on Application-specific Systems, Architectures and Processors 
   link: https://www.asap2023.org/
   deadline:
@@ -232,7 +232,7 @@
 
 - name: MWCAS
   year: 2023
-  date: "August 6-9 2023"
+  date: "August 6-9, 2023"
   description: MWCAS 2023 
   link: https://www.mwscas2023.com/ 
   deadline:
@@ -242,10 +242,113 @@
 
 - name: AsianHOST
   year: 2022
-  date: "December 14-16 2022"
+  date: "December 14-16, 2022"
   description: Asian Hardware Oriented Security and Trust Symposium 
   link: http://asianhost.org/2022/index.htm 
   deadline:
     - "2022-07-25 23:59"
   place: Singapore 
+  tags: [HAR,SEC]
+
+- name: CCS
+  year: 2022
+  date: "November 7-11, 2022"
+  description: ACM Conference on Computer and Communications Security 
+  link: https://www.sigsac.org/ccs/CCS2022  
+  deadline:
+    - "2022-01-14 23:59"
+  place: Los Angeles, USA 
+  tags: [SEC]
+
+- name: WOOT
+  year: 2022
+  date: "May 26, 2022"
+  description: 16th IEEE Workshop on Offensive Technologies 
+  link: https://www.ieee-security.org/TC/SP2022/WOOT22/index.html
+  deadline:
+    - "2022-02-28 23:59"
+  place: San Francisco, USA 
+  tags: [SEC]
+
+- name: NDSS
+  year: 2023
+  date: "TBD"
+  description: The Network and Distributed System Security Symposium 
+  link: https://www.ndss-symposium.org/ndss2023/call-for-papers/
+  deadline:
+    - "2022-07-29 23:59"
+  place: San Diego, USA
+  tags: [SEC]
+
+- name: Asia CCS
+  year: 2023
+  date: "July 10-14, 2023"
+  description: 18th ACM ASIA Conference on Computer and Communications Security 
+  link: https://asiaccs2023.org/
+  deadline:
+    - "2022-09-01 23:59"
+  place: Melbourne, Australia
+  tags: [SEC]
+
+- name: HASP
+  year: 2022
+  date: "October 1, 2022"
+  description: Hardware and Architectural Support for Security and Privacy 
+  link: https://haspworkshop.org/2022/
+  deadline:
+    - "2022-09-02 23:59"
+  place: Chicago, USA
+  tags: [SEC]
+
+- name: SP
+  year: 2023
+  date: "May 22-26, 2023"
+  description: IEEE Symposium on Security and Privacy 
+  link: https://www.ieee-security.org/TC/SP2023/ 
+  deadline:
+    - "2022-12-02 23:59"
+  place: Chicago, USA
+  tags: [SEC]
+
+- name: HOST
+  year: 2023
+  date: "May 1-4, 2023"
+  description: IEEE International Symposium on Hardware Oriented Security and Trust 
+  link: http://www.hostsymposium.org/call-for-paper.php   
+  deadline:
+    - "2023-01-09 23:59"
+  place: San Jose, USA
+  tags: [HAR,SEC]
+
+- name: Usenix
+  year: 2023
+  date: "August 9-11, 2023"
+  description: 32nd USENIX Security Symposium 
+  link: https://www.usenix.org/conference/usenixsecurity23    
+  deadline:
+    - "2023-02-07 23:59"
+  place: Anaheim, USA
+  tags: [SEC]
+
+- name: Cryptarchi
+  year: 2022
+  date: "May 29 - June 1, 2022"
+  description: International Workshops on Cryptographic architectures embedded in logic devices  
+  link: https://labh-curien.univ-st-etienne.fr/cryptarchi    
+  deadline:
+    - "2022-04-13 23:59"
+  place: Porquerolles, France
+  tags: [HAR,SEC]
+
+- name: CHES
+  year: 2023
+  date: "September 2023"
+  description: Conference on Cryptographic Hardware and Embedded Systems
+  link: https://ches.iacr.org    
+  deadline:
+    - "2022-07-15 23:59"
+    - "2022-10-15 23:59"
+    - "2023-01-15 23:59"
+    - "2023-04-15 23:59"
+  place: Prague, Czech Republic 
   tags: [HAR,SEC]
