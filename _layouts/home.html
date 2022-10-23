@@ -138,7 +138,7 @@
         $('#{{ conf_id }} .timer').countdown(confDeadline.toDate(), function(event) {
           var today = moment();
           if (today.diff(confDeadline) <= 0) {
-            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+            $(this).html(event.strftime('%D days %Hh %Mm'));
           }
         });
 
