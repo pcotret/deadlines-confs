@@ -7,3 +7,6 @@
 - name: Security
   tag: SEC
 
+# VM and OS
+- name: VM adn OS
+  tag: VMOS
