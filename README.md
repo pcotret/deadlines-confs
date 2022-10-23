@@ -1,4 +1,5 @@
 # Confs deadlines with countdown!
+[https://pcotret.github.io/deadlines-confs/](https://pcotret.github.io/deadlines-confs/)
 
 Based on [sec-deadlines](https://github.com/sec-deadlines/sec-deadlines.github.io) by Bogdan Kulynych
 
