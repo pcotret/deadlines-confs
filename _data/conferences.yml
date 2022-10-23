@@ -42,7 +42,7 @@
 
 - name: NewCAS
   year: 2022
-  date: "19-22 June 2022"
+  date: "June 19-22 2022"
   description: 20th IEEE International NEWCAS Conference
   link: https://newcas2022.org/ 
   deadline:
@@ -52,7 +52,7 @@
 
 - name: SILM
   year: 2022
-  date: "06 June 2022"
+  date: "June 06 2022"
   description: Workshop on the Security of Software / Hardware Interfaces
   link: https://silm-workshop.github.io/  
   deadline:
@@ -62,10 +62,180 @@
 
 - name: CODES+ISSS
   year: 2022
-  date: "10-12 October June 2022"
+  date: "October 10-12 2022"
   description: International Conference on Hardware/Software Codesign and System Synthesis
   link: https://esweek.org/codes-isss/ 
   deadline:
     - "2022-03-31 23:59"
   place: Shanghai, Hybrid 
+  tags: [HAR]
+
+- name: MICRO
+  year: 2022
+  date: "October 1-5 2022"
+  description: International Symposium on Microarchitecture
+  link: https://www.microarch.org/micro55/submit/papers.php 
+  deadline:
+    - "2022-04-14 23:59"
+  place: Chicago, USA 
+  tags: [HAR]
+
+- name: DASIP
+  year: 2023
+  date: "January 16-18 2023"
+  description: Workshop on Design and Architectures for Signal and Image Processing
+  link: http://dasip23.citsem.upm.es/
+  deadline:
+    - "2022-10-21 23:59"
+  place: Toulouse, France
+  tags: [HAR]
+
+- name: CARRV
+  year: 2022
+  date: "June 19 2022"
+  description: Sixth Workshop on Computer Architecture Research with RISC-V
+  link: https://carrv.github.io/2022/
+  deadline:
+    - "2022-05-06 23:59"
+  place: New York, USA
+  tags: [HAR]
+
+- name: ICCAD
+  year: 2022
+  date: "30 October - 4 November 2022"
+  description: International Conference on Computer-Aided Design
+  link: https://iccad.com
+  deadline:
+    - "2022-05-16 23:59"
+  place: Online
+  tags: [HAR]
+
+- name: HIPEAC
+  year: 2023
+  date: "January 16-18 2023"
+  description: HIPEAC 2023
+  link: https://www.hipeac.net/2023/toulouse/#/ 
+  deadline:
+    - "2022-05-16 23:59"
+  place: Toulouse, France
+  tags: [HAR]
+
+- name: ICFPT
+  year: 2022
+  date: "December 5-9 2022"
+  description: International Conference on Field Programmable Technology
+  link: http://www.icfpt.org 
+  deadline:
+    - "2022-07-08 23:59"
+  place: Hong Kong
+  tags: [HAR]
+
+- name: ARCS
+  year: 2022
+  date: "September 13-15 2022"
+  description: INTERNATIONAL CONFERENCE ON ARCHITECTURE OF COMPUTING SYSTEMS
+  link: https://arcs-conference.org/call-for-papers
+  deadline:
+    - "2022-07-20 23:59"
+  place: Heilbronn, Germany
+  tags: [HAR]
+
+- name: ASPDAC
+  year: 2023
+  date: "January 16-19 2023"
+  description: 28th Asia and South Pacific Design Automation Conference
+  link: https://www.aspdac.com/aspdac2023/author/technical_paper/index.html 
+  deadline:
+    - "2022-07-24 23:59"
+  place: Tokyo, Japan
+  tags: [HAR]
+
+- name: HPCA
+  year: 2023
+  date: "Feb 25 - March 01 2023"
+  description: 29th IEEE International Symposium on High-Performance Computer Architecture
+  link: https://hpca-conf.org/2023/call-for-papers/ 
+  deadline:
+    - "2022-07-25 23:59"
+  place: Montreal, Canada
+  tags: [HAR]
+
+- name: FPGA
+  year: 2023
+  date: "February 12-14 2023"
+  description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+  link: http://www.isfpga.org 
+  deadline:
+    - "2022-09-16 23:59"
+  place: Monterrey, USA
+  tags: [HAR]
+
+- name: DATE
+  year: 2023
+  date: "April 17-19 2023"
+  description: Design, Automation and Test in Europe
+  link: http://date-conference.com
+  deadline:
+    - "2022-09-18 23:59"
+  place: Antwerp, Belgium 
+  tags: [HAR]
+
+- name: ISCAS
+  year: 2023
+  date: "May 21-25 2023"
+  description: IEEE International Symposium on Circuits and Systems
+  link: https://confcats-web-assets.s3.amazonaws.com/iscas/2023/iscas23-cfp_web-13.pdf
+  deadline:
+    - "2022-10-24 23:59"
+  place: Monterey, USA 
+  tags: [HAR]
+
+- name: DAC
+  year: 2023
+  date: "July 9-13 2023"
+  description: Design Automation Conference 
+  link: http://www.dac.com 
+  deadline:
+    - "2022-11-14 23:59"
+  place: San Francisco, USA 
+  tags: [HAR]
+
+- name: ISCA
+  year: 2023
+  date: "June 17-23 2023"
+  description: International Symposium on Computer Architecture 
+  link: https://iscaconf.org/isca2023/  
+  deadline:
+    - "2022-11-14 23:59"
+  place: Orlando, USA 
+  tags: [HAR]
+
+- name: Rapido
+  year: 2023
+  date: "January 16-18 2023"
+  description: 15th Workshop on Rapid Simulation and Performance Evaluation for Design Optimization Methods and Tools 
+  link: https://rapidoworkshop.github.io/2023/cfp.html  
+  deadline:
+    - "2022-11-25 23:59"
+  place: Toulouse, France 
+  tags: [HAR]
+
+- name: ASAP
+  year: 2023
+  date: "July 19-21 2023"
+  description: 34th IEEE International Conference on Application-specific Systems, Architectures and Processors 
+  link: https://www.asap2023.org/
+  deadline:
+    - "2023-02-20 23:59"
+  place: Porto, Portugal 
+  tags: [HAR]
+
+- name: MWCAS
+  year: 2023
+  date: "August 6-9 2023"
+  description: MWCAS 2023 
+  link: https://www.mwscas2023.com/ 
+  deadline:
+    - "2023-04-07 23:59"
+  place: Phoenix, USA 
   tags: [HAR]
