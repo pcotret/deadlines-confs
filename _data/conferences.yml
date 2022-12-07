@@ -43,15 +43,15 @@
   tags: [HAR]
 
 - name: FPL
-  year: 2022
-  date: "29 August - 2nd September, 2022"
-  description: 32nd International Conference on Field Programmable Logic and Applications
-  link: https://fpl.org/
+  year: 2023
+  date: "4-8 September, 2023"
+  description: 33rd International Conference on Field Programmable Logic and Applications
+  link: https://2023.fpl.org/
   deadline:
-    - "2022-03-21 23:59"
-    - "2022-03-28 23:59"
+    - "2023-03-21 23:59"
+    - "2023-03-28 23:59"
   comment: Abstract on Mar 21 / Paper on Mar 28
-  place: Belfast, UK
+  place: Gothenburg, Sweden
   tags: [HAR]
 
 - name: DSD
@@ -65,13 +65,13 @@
   tags: [HAR]
 
 - name: NewCAS
-  year: 2022
-  date: "June 19-22, 2022"
+  year: 2023
+  date: "June 26-28, 2023"
   description: 20th IEEE International NEWCAS Conference
-  link: https://newcas2022.org/ 
+  link: https://ieee-newcas.org/
   deadline:
-    - "2022-02-18 23:59"
-  place: Quebec, Canada 
+    - "2022-02-06 23:59"
+  place: Edinburgh, Scotland 
   tags: [HAR]
 
 - name: SILM
@@ -312,12 +312,12 @@
   tags: [SEC]
 
 - name: WOOT
-  year: 2022
-  date: "May 26, 2022"
-  description: 16th IEEE Workshop on Offensive Technologies 
-  link: https://www.ieee-security.org/TC/SP2022/WOOT22/index.html
+  year: 2023
+  date: "May 25, 2023"
+  description: 17th IEEE Workshop on Offensive Technologies 
+  link: https://cpseclab.github.io/WOOT23/#cfp
   deadline:
-    - "2022-02-08 23:59"
+    - "2023-01-27 23:59"
   place: San Francisco, USA 
   tags: [SEC]
 
