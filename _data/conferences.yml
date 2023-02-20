@@ -1,13 +1,13 @@
 ---
 
 - name: RAID
-  year: 2022
-  date: "October 26-28, 2022"
+  year: 2023
+  date: "October 16-18, 2023"
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  link: https://raid2022.cs.ucy.ac.cy/
+  link: https://raid2023.org/
   deadline:
-    - "2022-04-07 23:59"
-  place: Limassol, Cyprus
+    - "2023-03-23 23:59"
+  place: Hong Kong, China
   tags: [SEC]
 
 - name: RAW
@@ -16,7 +16,7 @@
   description: 30th Reconfigurable Architectures Workshop
   link: https://raw.necst.it/
   deadline:
-    - "2023-01-23 23:59"
+    - "2023-02-10 23:59"
   place: St. Petersburg, Florida, USA
   tags: [HAR]
   
