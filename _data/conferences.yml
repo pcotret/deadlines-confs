@@ -301,14 +301,14 @@
   tags: [HAR,SEC]
 
 - name: CCS
-  year: 2022
-  date: "November 7-11, 2022"
+  year: 2023
+  date: "November 26-30, 2023"
   description: ACM Conference on Computer and Communications Security 
-  link: https://www.sigsac.org/ccs/CCS2022  
+  link: https://www.sigsac.org/ccs/CCS2023  
   deadline:
-    - "2022-01-14 23:59"
-    - "2022-05-02 23:59"
-  place: Los Angeles, USA 
+    - "2023-01-19 23:59"
+    - "2023-05-04 23:59"
+  place: Copenhagen, Denmark
   tags: [SEC]
 
 - name: WOOT
