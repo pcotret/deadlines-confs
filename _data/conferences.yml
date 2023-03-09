@@ -75,13 +75,13 @@
   tags: [HAR]
 
 - name: SILM
-  year: 2022
-  date: "June 06, 2022"
+  year: 2023
+  date: "July 03, 2023"
   description: Workshop on the Security of Software / Hardware Interfaces
   link: https://silm-workshop.github.io/  
   deadline:
-    - "2022-03-24 23:59"
-  place: Genoa, Italy 
+    - "2023-03-15 23:59"
+  place: Delft, The Netherlands 
   tags: [HAR]
 
 - name: CODES+ISSS
