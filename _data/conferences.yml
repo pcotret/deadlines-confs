@@ -322,13 +322,13 @@
   tags: [SEC]
 
 - name: NDSS
-  year: 2023
-  date: "TBD"
+  year: 2024
+  date: "Feb 26, 2024"
   description: The Network and Distributed System Security Symposium 
-  link: https://www.ndss-symposium.org/ndss2023/call-for-papers/
+  link: https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/
   deadline:
-    - "2022-05-13 23:59"
-    - "2022-07-29 23:59"
+    - "2023-04-19 23:59"
+    - "2023-06-23 23:59"
   place: San Diego, USA
   tags: [SEC]
 
