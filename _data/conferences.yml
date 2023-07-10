@@ -153,7 +153,7 @@
   tags: [HAR]
 
 - name: ICFPT
-  year: 2022
+  year: 2023
   date: "December 11-14, 2023"
   description: International Conference on Field Programmable Technology
   link: http://www.icfpt.org 
@@ -462,7 +462,7 @@
   tags: [VMOS]
 
 - name: GPCE
-  year: 2022
+  year: 2023
   date: "October 22-27, 2023"
   description: 22nd International Conference on Generative Programming Concepts & Experiences
   link: https://2023.splashcon.org/home/gpce-2023
