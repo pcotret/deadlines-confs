@@ -26,7 +26,7 @@
   description: Annual Computer Security Applications Conference
   link: https://www.acsac.org/
   deadline:
-    - "2022-05-26 23:59"
+    - "2023-05-26 23:59"
   place: Austin, Texas, USA
   tags: [SEC]
 
@@ -90,8 +90,8 @@
   description: International Conference on Hardware/Software Codesign and System Synthesis
   link: https://esweek.org/codes-isss/ 
   deadline:
-    - "2022-03-16 23:59"
-    - "2022-03-23 23:59"
+    - "2023-03-16 23:59"
+    - "2023-03-23 23:59"
   comment: Abstract on Mar 16 / Paper on Mar 23
   place: Hamburg, Germany
   tags: [HAR]
@@ -102,8 +102,8 @@
   description: International Symposium on Microarchitecture
   link: https://www.microarch.org/micro56/submit/papers.php 
   deadline:
-    - "2022-04-21 23:59"
-    - "2022-04-28 23:59"
+    - "2023-04-21 23:59"
+    - "2023-04-28 23:59"
   comment: Abstract on Apr 21 / Paper on Apr 28
   place: Toronto, Canada
   tags: [HAR]
@@ -154,84 +154,82 @@
 
 - name: ICFPT
   year: 2022
-  date: "December 5-9, 2022"
+  date: "December 11-14, 2023"
   description: International Conference on Field Programmable Technology
   link: http://www.icfpt.org 
   deadline:
-    - "2022-07-29 23:59"
-    - "2022-08-05 23:59"
-  comment: Abstract on Jul 29 / Paper on Aug 05
-  place: Hong Kong
+    - "2023-07-14 23:59"
+    - "2023-07-23 23:59"
+  comment: Abstract on Jul 14 / Paper on Jul 23
+  place: Yokohama, Japan
   tags: [HAR]
 
 - name: ARCS
-  year: 2022
+  year: 2023
   date: "September 13-15, 2022"
   description: INTERNATIONAL CONFERENCE ON ARCHITECTURE OF COMPUTING SYSTEMS
   link: https://arcs-conference.org/call-for-papers
   deadline:
-    - "2022-07-20 23:59"
-    - "2022-07-27 23:59"
-  comment: Abstract on Jul 20 / Paper on Jul 27
-  place: Heilbronn, Germany
+    - "2023-04-21 23:59"
+  place: Athens, Greece
   tags: [HAR]
 
 - name: ASPDAC
   year: 2023
-  date: "January 16-19, 2023"
-  description: 28th Asia and South Pacific Design Automation Conference
-  link: https://www.aspdac.com/aspdac2023/author/technical_paper/index.html 
+  date: "January 22-25, 2024"
+  description: 29th Asia and South Pacific Design Automation Conference
+  link: https://aspdac.gabia.io/cfp/index.html
   deadline:
-    - "2022-07-24 23:59"
-    - "2022-07-29 23:59"
-  comment: Abstract on Jul 24 / Paper on Jul 29
-  place: Tokyo, Japan
+    - "2023-07-23 23:59"
+    - "2023-07-28 23:59"
+  comment: Abstract on Jul 23 / Paper on Jul 28
+  place: Incheon, South Korea
   tags: [HAR]
 
 - name: HPCA
-  year: 2023
-  date: "Feb 25 - March 01, 2023"
-  description: 29th IEEE International Symposium on High-Performance Computer Architecture
-  link: https://hpca-conf.org/2023/call-for-papers/ 
+  year: 2024
+  date: "Mar 2-6, 2024"
+  description: 30th IEEE International Symposium on High-Performance Computer Architecture
+  link: https://hpca-conf.org/2024/
   deadline:
-    - "2022-07-25 23:59"
-    - "2022-08-01 23:59"
-  comment: Abstract on Jul 25 / Paper on Aug 01
-  place: Montreal, Canada
+    - "2023-07-28 23:59"
+    - "2023-08-04 23:59"
+  comment: Abstract on Jul 28 / Paper on Aug 04
+  place: Edinburgh, Scotland
   tags: [HAR]
 
 - name: FPGA
   year: 2023
-  date: "February 12-14, 2023"
+  date: "March 3-5, 2024"
   description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
   link: http://www.isfpga.org 
   deadline:
-    - "2022-09-16 23:59"
-    - "2022-09-23 23:59"
-  comment: Abstract on Sep 16 / Paper on Sep 23
+    - "2023-10-13 23:59"
+    - "2023-10-06 23:59"
+  comment: Abstract on Oct 6 / Paper on Oct 13
   place: Monterrey, USA
   tags: [HAR]
 
 - name: DATE
-  year: 2023
-  date: "April 17-19, 2023"
+  year: 2024
+  date: "March 25-27, 2024"
   description: Design, Automation and Test in Europe
   link: http://date-conference.com
   deadline:
-    - "2022-09-18 23:59"
-    - "2022-09-25 23:59"
-  comment: Abstract on Sep 18 / Paper on Sep 25
-  place: Antwerp, Belgium 
+    - "2023-09-10 23:59"
+    - "2023-09-17 23:59"
+  comment: Abstract on Sep 10 / Paper on Sep 17
+  place: Valencia, Spain 
   tags: [HAR]
 
 - name: ISCAS
-  year: 2023
-  date: "May 21-25, 2023"
+  year: 2024
+  date: "May 19-22, 2024"
   description: IEEE International Symposium on Circuits and Systems
-  link: https://confcats-web-assets.s3.amazonaws.com/iscas/2023/iscas23-cfp_web-13.pdf
+  link: https://2024.ieee-iscas.org/
   deadline:
-    - "2022-10-24 23:59"
-  place: Monterey, USA 
+    - "2023-10-15 23:59"
+  place: Singapore
   tags: [HAR]
 
 - name: DAC
@@ -247,15 +245,15 @@
   tags: [HAR]
 
 - name: ISCA
-  year: 2023
-  date: "June 17-23, 2023"
+  year: 2024
+  date: "June 29 - July 3, 2024"
   description: International Symposium on Computer Architecture 
-  link: https://iscaconf.org/isca2023/  
+  link: https://iscaconf.org/isca2024/  
   deadline:
-    - "2022-11-14 23:59"
-    - "2022-11-21 23:59"
+    - "2023-11-14 23:59"
+    - "2023-11-21 23:59"
   comment: Abstract on Nov 14 / Paper on Nov 21
-  place: Orlando, USA 
+  place: Buenos Aires, Argentina
   tags: [HAR]
 
 - name: Rapido
@@ -291,13 +289,13 @@
   tags: [HAR]
 
 - name: AsianHOST
-  year: 2022
-  date: "December 14-16, 2022"
+  year: 2023
+  date: "December 13-15, 2022"
   description: Asian Hardware Oriented Security and Trust Symposium 
-  link: http://asianhost.org/2022/index.htm 
+  link: http://asianhost.org/2023/index.htm 
   deadline:
-    - "2022-08-15 23:59"
-  place: Singapore 
+    - "2023-07-24 23:59"
+  place: Tianjin, China 
   tags: [HAR,SEC]
 
 - name: CCS
@@ -333,24 +331,24 @@
   tags: [SEC]
 
 - name: Asia CCS
-  year: 2023
-  date: "July 10-14, 2023"
-  description: 18th ACM ASIA Conference on Computer and Communications Security 
-  link: https://asiaccs2023.org/
+  year: 2024
+  date: "July 1-5, 2024"
+  description: 19th ACM ASIA Conference on Computer and Communications Security 
+  link: https://asiaccs2024.sutd.edu.sg/
   deadline:
-    - "2022-09-01 23:59"
-    - "2022-12-15 23:59"
-  place: Melbourne, Australia
+    - "2023-08-21 23:59"
+    - "2023-12-07 23:59"
+  place: Singapore
   tags: [SEC]
 
 - name: HASP
-  year: 2022
-  date: "October 1, 2022"
+  year: 2023
+  date: "October 28, 2023"
   description: Hardware and Architectural Support for Security and Privacy 
-  link: https://haspworkshop.org/2022/
+  link: https://haspworkshop.org/2023/
   deadline:
-    - "2022-09-09 23:59"
-  place: Chicago, USA
+    - "2023-08-10 23:59"
+  place: Toronto, Canada
   tags: [SEC]
 
 - name: SP
@@ -366,14 +364,14 @@
   tags: [SEC]
 
 - name: HOST
-  year: 2023
+  year: 2024
   date: "May 1-4, 2023"
   description: IEEE International Symposium on Hardware Oriented Security and Trust 
   link: http://www.hostsymposium.org/call-for-paper.php   
   deadline:
-    - "2022-10-17 23:59"
-    - "2023-01-09 23:59"
-  place: San Jose, USA
+    - "2023-08-21 23:59"
+    - "2023-12-11 23:59"
+  place: Washington, USA
   tags: [HAR,SEC]
 
 - name: Usenix
@@ -390,7 +388,7 @@
 
 - name: Cryptarchi
   year: 2023
-  date: "June 11-14, 2022"
+  date: "June 11-14, 2023"
   description: International Workshops on Cryptographic architectures embedded in logic devices  
   link: https://labh-curien.univ-st-etienne.fr/cryptarchi    
   deadline:
@@ -412,25 +410,25 @@
   tags: [HAR,SEC]
 
 - name: DLS
-  year: 2021
-  date: "October 17-21, 2021"
+  year: 2023
+  date: "October 22-27, 2023"
   description: Dynamic Languages Symposium
   link: https://dynamic-languages-symposium.org/index.html   
   deadline:
-    - "2021-06-02 23:59"
-  place: Chicago, Illinois, USA
+    - "2023-07-26 23:59"
+  place: Cascais, Portugal
   tags: [VMOS]
 
 - name: VMIL
-  year: 2022
-  date: "December 5-10, 2022"
-  description: Dynamic Languages Symposium
-  link: https://2022.splashcon.org/home/vmil-2022  
+  year: 2023
+  date: "October 22-27, 2023"
+  description: Workshop on Virtual Machines and Language Implementations
+  link: https://2023.splashcon.org/home/vmil-2023  
   deadline:
-    - "2022-09-01 23:59"
-    - "2022-09-18 23:59"
-  comment: Abstract on Sep 01 / Paper on Sep 18
-  place: Auckland, New Zealand
+    - "2023-07-12 23:59"
+    - "2023-07-17 23:59"
+  comment: Abstract on Jul 12 / Paper on Jul 17
+  place: Cascais, Portugal
   tags: [VMOS]
 
 - name: PLDI
@@ -465,14 +463,14 @@
 
 - name: GPCE
   year: 2022
-  date: "December 5-10, 2022"
-  description: 21st International Conference on Generative Programming Concepts & Experiences
-  link: https://2022.splashcon.org/home/gpce-2022
+  date: "October 22-27, 2023"
+  description: 22nd International Conference on Generative Programming Concepts & Experiences
+  link: https://2023.splashcon.org/home/gpce-2023
   deadline:
-    - "2022-08-08 23:59"
-    - "2022-08-12 23:59"
-  comment: Abstract on Aug 08 / Paper on Aug 12
-  place: Brussels, Belgium
+    - "2023-07-10 23:59"
+    - "2023-07-14 23:59"
+  comment: Abstract on Jul 10 / Paper on Jul 14
+  place: Cascais, Portugal
   tags: [VMOS]
 
 - name: Recosoc
