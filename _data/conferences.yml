@@ -11,13 +11,13 @@
   tags: [SEC]
 
 - name: RAW
-  year: 2023
-  date: "May 2023"
-  description: 30th Reconfigurable Architectures Workshop
+  year: 2024
+  date: "May 2024"
+  description: 31st Reconfigurable Architectures Workshop
   link: https://raw.necst.it/
   deadline:
-    - "2023-02-10 23:59"
-  place: St. Petersburg, Florida, USA
+    - "2024-01-29 23:59"
+  place: San Francisco, California, USA
   tags: [HAR]
   
 - name: ACSAC
@@ -32,14 +32,14 @@
 
 - name: FCCM
   year: 2023
-  date: "May 8-11, 2023"
-  description: 31th IEEE International Symposium on Field-Programmable Custom Computing Machines
+  date: "May 5-8, 2024"
+  description: 32nd IEEE International Symposium on Field-Programmable Custom Computing Machines
   link: http://fccm.org
   deadline:
-    - "2023-01-09 23:59"
-    - "2023-01-16 23:59"
-  comment: Abstract on Jan 09 / Paper on Jan 16
-  place: Los Angeles, California, USA
+    - "2024-01-09 23:59"
+    - "2024-01-15 23:59"
+  comment: Abstract on Jan 09 / Paper on Jan 15
+  place: Orlando, Florida, USA
   tags: [HAR]
 
 - name: FPL
@@ -55,13 +55,13 @@
   tags: [HAR]
 
 - name: DSD
-  year: 2023
-  date: "September 6-8, 2023"
+  year: 2024
+  date: "August 28-30, 2024"
   description: Euromicro DSD/SEAA
-  link: https://dsd-seaa2023.com/
+  link: https://dsd-seaa.com/dsd2024/
   deadline:
     - "2023-04-30 23:59"
-  place: Durres, Albania
+  place: Paris, France
   tags: [HAR]
 
 - name: NewCAS
@@ -75,25 +75,25 @@
   tags: [HAR]
 
 - name: SILM
-  year: 2023
-  date: "July 03, 2023"
+  year: 2024
+  date: "July 12, 2024"
   description: Workshop on the Security of Software / Hardware Interfaces
   link: https://silm-workshop.github.io/  
   deadline:
-    - "2023-03-15 23:59"
-  place: Delft, The Netherlands 
+    - "2024-03-08 23:59"
+  place: Vienna, Austria 
   tags: [HAR]
 
 - name: CODES+ISSS
-  year: 2023
-  date: "September 17-22, 2023"
+  year: 2024
+  date: "September 29 - October 4, 2024"
   description: International Conference on Hardware/Software Codesign and System Synthesis
   link: https://esweek.org/codes-isss/ 
   deadline:
-    - "2023-03-16 23:59"
-    - "2023-03-23 23:59"
-  comment: Abstract on Mar 16 / Paper on Mar 23
-  place: Hamburg, Germany
+    - "2023-03-24 23:59"
+    - "2023-03-31 23:59"
+  comment: Abstract on Mar 24 / Paper on Mar 31
+  place: Raleigh, North Carolina, USA
   tags: [HAR]
 
 - name: MICRO
@@ -153,13 +153,13 @@
   tags: [HAR]
 
 - name: ARCS
-  year: 2023
-  date: "June 13-15, 2023"
+  year: 2024
+  date: "May 14-16, 2024"
   description: INTERNATIONAL CONFERENCE ON ARCHITECTURE OF COMPUTING SYSTEMS
   link: https://arcs-conference.org/call-for-papers
   deadline:
-    - "2023-04-21 23:59"
-  place: Athens, Greece
+    - "2024-02-29 23:59"
+  place: Potsdam, Germany
   tags: [HAR]
 
 - name: ASPDAC
@@ -187,7 +187,7 @@
   tags: [HAR]
 
 - name: FPGA
-  year: 2023
+  year: 2024
   date: "March 3-5, 2024"
   description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
   link: http://www.isfpga.org 
@@ -298,13 +298,13 @@
   tags: [SEC]
 
 - name: WOOT
-  year: 2023
-  date: "May 25, 2023"
-  description: 17th IEEE Workshop on Offensive Technologies 
-  link: https://cpseclab.github.io/WOOT23/#cfp
+  year: 2024
+  date: "August 12-13, 2024"
+  description: 18th USENIX WOOT Conference on Offensive Technologies
+  link: https://www.usenix.org/conference/woot24
   deadline:
-    - "2023-01-27 23:59"
-  place: San Francisco, USA 
+    - "2024-03-12 23:59"
+  place: Philadelphia, USA 
   tags: [SEC]
 
 - name: NDSS
