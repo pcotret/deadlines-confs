@@ -1,13 +1,13 @@
 ---
 
 - name: RAID
-  year: 2023
-  date: "October 16-18, 2023"
+  year: 2024
+  date: "Sep 30 - Oct 2, 2024"
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  link: https://raid2023.org/
+  link: https://raid2024.org/
   deadline:
-    - "2023-03-23 23:59"
-  place: Hong Kong, China
+    - "2024-04-09 23:59"
+  place: Padua, Italy
   tags: [SEC]
 
 - name: RAW
@@ -31,7 +31,7 @@
   tags: [SEC]
 
 - name: FCCM
-  year: 2023
+  year: 2024
   date: "May 5-8, 2024"
   description: 32nd IEEE International Symposium on Field-Programmable Custom Computing Machines
   link: http://fccm.org
@@ -43,15 +43,15 @@
   tags: [HAR]
 
 - name: FPL
-  year: 2023
-  date: "4-8 September, 2023"
-  description: 33rd International Conference on Field Programmable Logic and Applications
-  link: https://2023.fpl.org/
+  year: 2024
+  date: "2-6 September, 2024"
+  description: 34th International Conference on Field Programmable Logic and Applications
+  link: http://asaclab.polito.it/fpl2024/
   deadline:
-    - "2023-03-21 23:59"
-    - "2023-03-28 23:59"
-  comment: Abstract on Mar 21 / Paper on Mar 28
-  place: Gothenburg, Sweden
+    - "2024-03-15 23:59"
+    - "2024-03-22 23:59"
+  comment: Abstract on Mar 15 / Paper on Mar 22
+  place: Turin, Italy
   tags: [HAR]
 
 - name: DSD
@@ -60,7 +60,7 @@
   description: Euromicro DSD/SEAA
   link: https://dsd-seaa.com/dsd2024/
   deadline:
-    - "2023-04-30 23:59"
+    - "2024-05-05 23:59"
   place: Paris, France
   tags: [HAR]
 
@@ -80,7 +80,7 @@
   description: Workshop on the Security of Software / Hardware Interfaces
   link: https://silm-workshop.github.io/  
   deadline:
-    - "2024-03-08 23:59"
+    - "2024-03-15 23:59"
   place: Vienna, Austria 
   tags: [HAR]
 
@@ -90,8 +90,8 @@
   description: International Conference on Hardware/Software Codesign and System Synthesis
   link: https://esweek.org/codes-isss/ 
   deadline:
-    - "2023-03-24 23:59"
-    - "2023-03-31 23:59"
+    - "2024-03-24 23:59"
+    - "2024-03-31 23:59"
   comment: Abstract on Mar 24 / Paper on Mar 31
   place: Raleigh, North Carolina, USA
   tags: [HAR]
@@ -119,15 +119,15 @@
   tags: [HAR]
 
 - name: ICCAD
-  year: 2023
-  date: "October 29 - November 2, 2023"
+  year: 2024
+  date: "October - November, 2024"
   description: International Conference on Computer-Aided Design
   link: https://iccad.com
   deadline:
-    - "2023-05-15 23:59"
-    - "2023-05-22 23:59"
-  comment: Abstract on May 15 / Paper on May 22
-  place: Online
+    - "2024-04-28 23:59"
+    - "2024-05-05 23:59"
+  comment: Abstract on Apr 28 / Paper on May 5
+  place: New York, USA
   tags: [HAR]
 
 - name: HIPEAC
@@ -267,13 +267,13 @@
   tags: [HAR]
 
 - name: MWCAS
-  year: 2023
-  date: "August 6-9, 2023"
-  description: MWCAS 2023 
-  link: https://www.mwscas2023.com/ 
+  year: 2024
+  date: "August 11-14, 2023"
+  description: 67th IEEE International Midwest Symposium on Circuits and Systems  
+  link: https://www.mwscas2024.org/
   deadline:
-    - "2023-04-07 23:59"
-  place: Phoenix, USA 
+    - "2024-03-22 23:59"
+  place: Springfield, USA 
   tags: [HAR]
 
 - name: AsianHOST
@@ -287,14 +287,13 @@
   tags: [HAR,SEC]
 
 - name: CCS
-  year: 2023
-  date: "November 26-30, 2023"
+  year: 2024
+  date: "October 14-18, 2024"
   description: ACM Conference on Computer and Communications Security 
-  link: https://www.sigsac.org/ccs/CCS2023  
+  link: https://www.sigsac.org/ccs/CCS2024/
   deadline:
-    - "2023-01-19 23:59"
-    - "2023-05-04 23:59"
-  place: Copenhagen, Denmark
+    - "2024-01-28 23:59"
+  place: Salt Lake City, USA
   tags: [SEC]
 
 - name: WOOT
@@ -313,8 +312,7 @@
   description: The Network and Distributed System Security Symposium 
   link: https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/
   deadline:
-    - "2023-04-19 23:59"
-    - "2023-06-23 23:59"
+    - "2023-06-28 23:59"
   place: San Diego, USA
   tags: [SEC]
 
@@ -341,7 +339,7 @@
 
 - name: SP
   year: 2024
-  date: "May 22-26, 2023"
+  date: "May 20-23, 2024"
   description: IEEE Symposium on Security and Privacy 
   link: https://sp2024.ieee-security.org/
   deadline:
@@ -353,7 +351,7 @@
 
 - name: HOST
   year: 2024
-  date: "May 1-4, 2023"
+  date: "May 6-9, 2024"
   description: IEEE International Symposium on Hardware Oriented Security and Trust 
   link: http://www.hostsymposium.org/call-for-paper.php   
   deadline:
@@ -363,15 +361,15 @@
   tags: [HAR,SEC]
 
 - name: Usenix
-  year: 2023
-  date: "August 9-11, 2023"
-  description: 32nd USENIX Security Symposium 
-  link: https://www.usenix.org/conference/usenixsecurity23    
+  year: 2024
+  date: "August 14-16, 2023"
+  description: 33rd USENIX Security Symposium 
+  link: https://www.usenix.org/conference/usenixsecurity24    
   deadline:
-    - "2022-06-07 23:59"
-    - "2022-10-11 23:59"
-    - "2023-02-07 23:59"
-  place: Anaheim, USA
+    - "2023-06-06 23:59"
+    - "2023-10-17 23:59"
+    - "2024-02-08 23:59"
+  place: Philadelphia, USA
   tags: [SEC]
 
 - name: Cryptarchi
@@ -386,15 +384,15 @@
 
 - name: CHES
   year: 2023
-  date: "September 2023"
+  date: "September 2024"
   description: Conference on Cryptographic Hardware and Embedded Systems
   link: https://ches.iacr.org    
   deadline:
-    - "2022-07-15 23:59"
-    - "2022-10-15 23:59"
-    - "2023-01-15 23:59"
-    - "2023-04-15 23:59"
-  place: Prague, Czech Republic 
+    - "2023-07-15 23:59"
+    - "2023-10-15 23:59"
+    - "2024-01-15 23:59"
+    - "2024-04-15 23:59"
+  place: Halifax, Canada 
   tags: [HAR,SEC]
 
 - name: DLS
@@ -421,11 +419,13 @@
 
 - name: PLDI
   year: 2024
-  date: "June 24-28, 2023"
+  date: "June 24-28, 2024"
   description: 45th ACM SIGPLAN Conference on Programming Language Design and Implementation
   link: https://pldi24.sigplan.org/  
   deadline:
-    - "2023-11-16 23:59"
+    - "2024-02-22 23:59"
+    - "2024-02-29 23:59"
+  comment: Abstract on Feb 22 / Paper on Feb 29
   place: Copenhagen, Denmark
   tags: [VMOS]
 
@@ -477,8 +477,18 @@
   year: 2020
   date: "October 26-27, 2020"
   description: 16th International Symposium on Applied Reconfigurable Computing
-  link: http://www.arc-symposium.org/
+  link: https://web.archive.org/web/20230129174931/http://www.arc-symposium.org/
   deadline:
     - "2019-12-22 23:59"
   place: Toledo, Spain
   tags: [HAR]
+
+- name: ISVLSI
+  year: 2024
+  date: "July 1-3, 2024"
+  description: IEEE Computer Society Annual Symposium on VLSI
+  link: https://www.ieee-isvlsi.org/ISVLSI_2024_Website/call-for-papers.html
+  deadline:
+    - "2024-03-04 23:59"
+  place: Knoxville, USA
+  tags: [HAR,SEC]
