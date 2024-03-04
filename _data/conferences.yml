@@ -1,5 +1,15 @@
 ---
 
+- name: CSR
+  year: 2024
+  date: "Sep 2-4, 2024"
+  description: IEEE International Conference on Cyber Security and Resilience
+  link: https://www.ieee-csr.org/
+  deadline:
+    - "2024-05-03 23:59"
+  place: London, UK
+  tags: [SEC]
+
 - name: RAID
   year: 2024
   date: "Sep 30 - Oct 2, 2024"
