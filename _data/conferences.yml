@@ -36,7 +36,7 @@
   description: Annual Computer Security Applications Conference
   link: https://www.acsac.org/
   deadline:
-    - "2023-05-28 23:59"
+    - "2024-05-28 23:59"
   place: Waikiki, Hawaii, USA
   tags: [SEC]
 
@@ -75,13 +75,13 @@
   tags: [HAR]
 
 - name: NewCAS
-  year: 2023
-  date: "June 26-28, 2023"
-  description: 20th IEEE International NEWCAS Conference
-  link: https://ieee-newcas.org/
+  year: 2024
+  date: "June 16-19, 2024"
+  description: 22nd IEEE International NEWCAS Conference
+  link: https://newcas.org/
   deadline:
     - "2023-02-06 23:59"
-  place: Edinburgh, Scotland 
+  place: Sherbrooke, Canada 
   tags: [HAR]
 
 - name: SILM
@@ -107,19 +107,19 @@
   tags: [HAR]
 
 - name: MICRO
-  year: 2023
-  date: "October 27 - November 1, 2023"
+  year: 2024
+  date: "November 2 - November 6, 2023"
   description: International Symposium on Microarchitecture
-  link: https://www.microarch.org/micro56/submit/papers.php 
+  link: https://microarch.org/micro57/index.php 
   deadline:
-    - "2023-04-21 23:59"
-    - "2023-04-28 23:59"
-  comment: Abstract on Apr 21 / Paper on Apr 28
-  place: Toronto, Canada
+    - "2024-04-11 23:59"
+    - "2024-04-18 23:59"
+  comment: Abstract on Apr 11 / Paper on Apr 18
+  place: Austin, USA
   tags: [HAR]
 
 - name: CARRV
-  year: 2022
+  year: 2023
   date: "June 17, 2023"
   description: Seventh Workshop on Computer Architecture Research with RISC-V
   link: https://carrv.github.io/2023/
@@ -151,15 +151,15 @@
   tags: [HAR]
 
 - name: ICFPT
-  year: 2023
-  date: "December 11-14, 2023"
+  year: 2024
+  date: "December 10-12, 2024"
   description: International Conference on Field Programmable Technology
-  link: https://fpt2023.org/ 
+  link: https://fpt2024.org/
   deadline:
-    - "2023-07-14 23:59"
-    - "2023-07-23 23:59"
-  comment: Abstract on Jul 14 / Paper on Jul 23
-  place: Yokohama, Japan
+    - "2024-07-14 23:59"
+    - "2024-07-21 23:59"
+  comment: Abstract on Jul 14 / Paper on Jul 21
+  place: Sydney, Australia
   tags: [HAR]
 
 - name: ARCS
@@ -372,7 +372,7 @@
 
 - name: Usenix
   year: 2024
-  date: "August 14-16, 2023"
+  date: "August 14-16, 2024"
   description: 33rd USENIX Security Symposium 
   link: https://www.usenix.org/conference/usenixsecurity24    
   deadline:
@@ -393,7 +393,7 @@
   tags: [HAR,SEC]
 
 - name: CHES
-  year: 2023
+  year: 2024
   date: "September 2024"
   description: Conference on Cryptographic Hardware and Embedded Systems
   link: https://ches.iacr.org    
@@ -416,15 +416,14 @@
   tags: [VMOS]
 
 - name: VMIL
-  year: 2023
-  date: "October 22-27, 2023"
+  year: 2024
+  date: "October 20-25, 2024"
   description: Workshop on Virtual Machines and Language Implementations
-  link: https://2023.splashcon.org/home/vmil-2023  
+  link: https://2024.splashcon.org/home/vmil-2024  
   deadline:
-    - "2023-07-12 23:59"
-    - "2023-07-17 23:59"
-  comment: Abstract on Jul 12 / Paper on Jul 17
-  place: Cascais, Portugal
+    - "2023-07-07 23:59"
+  comment: Paper on Jul 7
+  place: Pasadena, USA
   tags: [VMOS]
 
 - name: PLDI
