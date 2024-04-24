@@ -80,7 +80,7 @@
   description: 22nd IEEE International NEWCAS Conference
   link: https://newcas.org/
   deadline:
-    - "2023-02-06 23:59"
+    - "2024-02-01 23:59"
   place: Sherbrooke, Canada 
   tags: [HAR]
 
@@ -90,7 +90,7 @@
   description: Workshop on the Security of Software / Hardware Interfaces
   link: https://silm-workshop.github.io/  
   deadline:
-    - "2024-03-15 23:59"
+    - "2024-03-29 23:59"
   place: Vienna, Austria 
   tags: [HAR]
 
@@ -146,8 +146,9 @@
   description: HIPEAC 2023
   link: https://www.hipeac.net/2024/munich/#/ 
   deadline:
-    - "2023-06-01 23:59"
-  place: Munich, Germany
+    - "2024-06-01 23:59"
+  comment: Journal-first publication model
+  place: Barcelona, Spain
   tags: [HAR]
 
 - name: ICFPT
@@ -173,15 +174,15 @@
   tags: [HAR]
 
 - name: ASPDAC
-  year: 2023
-  date: "January 22-25, 2024"
+  year: 2025
+  date: "January 20-23, 2025"
   description: 29th Asia and South Pacific Design Automation Conference
-  link: https://aspdac.gabia.io/cfp/index.html
+  link: https://www.aspdac.com/aspdac2025/cfp/
   deadline:
-    - "2023-07-23 23:59"
-    - "2023-07-28 23:59"
-  comment: Abstract on Jul 23 / Paper on Jul 28
-  place: Incheon, South Korea
+    - "2024-07-05 23:59"
+    - "2024-07-12 23:59"
+  comment: Abstract on Jul 5 / Paper on Jul 12
+  place: Tokyo, Japan
   tags: [HAR]
 
 - name: HPCA
@@ -232,7 +233,7 @@
 
 - name: DAC
   year: 2024
-  date: "June 23-27 2023"
+  date: "June 23-27 2024"
   description: Design Automation Conference 
   link: http://www.dac.com 
   deadline:
@@ -278,7 +279,7 @@
 
 - name: MWCAS
   year: 2024
-  date: "August 11-14, 2023"
+  date: "August 11-14, 2024"
   description: 67th IEEE International Midwest Symposium on Circuits and Systems  
   link: https://www.mwscas2024.org/
   deadline:
@@ -287,13 +288,13 @@
   tags: [HAR]
 
 - name: AsianHOST
-  year: 2023
-  date: "December 13-15, 2023"
+  year: 2024
+  date: "December 16-18, 2024"
   description: Asian Hardware Oriented Security and Trust Symposium 
-  link: http://asianhost.org/2023/index.htm 
+  link: https://www.asianhost.org/2024/ 
   deadline:
-    - "2023-07-24 23:59"
-  place: Tianjin, China 
+    - "2024-07-14 23:59"
+  place: Kobe, Japan 
   tags: [HAR,SEC]
 
 - name: CCS
@@ -338,13 +339,13 @@
   tags: [SEC]
 
 - name: HASP
-  year: 2023
-  date: "October 28, 2023"
+  year: 2024
+  date: "November 2, 2024"
   description: Hardware and Architectural Support for Security and Privacy 
-  link: https://haspworkshop.org/2023/
+  link: https://haspworkshop.org/2024/
   deadline:
-    - "2023-08-10 23:59"
-  place: Toronto, Canada
+    - "2024-08-08 23:59"
+  place: Austin, USA
   tags: [SEC]
 
 - name: SP
