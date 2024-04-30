@@ -20,6 +20,16 @@
   place: Padua, Italy
   tags: [SEC]
 
+- name: BEC
+  year: 2024
+  date: "October 2-4, 2024"
+  description: The 19tH Biennial Baltic Electronics Conference
+  link: https://taltech.ee/en/bec2024
+  deadline:
+    - "2024-05-17 23:59"
+  place: Tallinn, Estonia
+  tags: [HAR]
+
 - name: RAW
   year: 2024
   date: "May 2024"
