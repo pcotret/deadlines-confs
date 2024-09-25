@@ -1,13 +1,13 @@
 ---
 
 - name: CSR
-  year: 2024
-  date: "Sep 2-4, 2024"
+  year: 2025
+  date: "Aug 4-6, 2025"
   description: IEEE International Conference on Cyber Security and Resilience
   link: https://www.ieee-csr.org/
   deadline:
-    - "2024-05-03 23:59"
-  place: London, UK
+    - "2025-02-10 23:59"
+  place: Chania, Greece
   tags: [SEC]
 
 - name: RAID
@@ -51,15 +51,15 @@
   tags: [SEC]
 
 - name: FCCM
-  year: 2024
-  date: "May 5-8, 2024"
+  year: 2025
+  date: "May 4-7, 2025"
   description: 32nd IEEE International Symposium on Field-Programmable Custom Computing Machines
   link: http://fccm.org
   deadline:
-    - "2024-01-09 23:59"
-    - "2024-01-15 23:59"
-  comment: Abstract on Jan 09 / Paper on Jan 15
-  place: Orlando, Florida, USA
+    - "2025-01-10 23:59"
+    - "2025-01-17 23:59"
+  comment: Abstract on Jan 10 / Paper on Jan 17
+  place: Fayetteville, Arkansas, USA
   tags: [HAR]
 
 - name: FPL
@@ -118,7 +118,7 @@
 
 - name: MICRO
   year: 2024
-  date: "November 2 - November 6, 2023"
+  date: "November 2 - November 6, 2024"
   description: International Symposium on Microarchitecture
   link: https://microarch.org/micro57/index.php 
   deadline:
@@ -151,10 +151,10 @@
   tags: [HAR]
 
 - name: HIPEAC
-  year: 2024
-  date: "January 17-19, 2024"
-  description: HIPEAC 2023
-  link: https://www.hipeac.net/2024/munich/#/ 
+  year: 2025
+  date: "January 20-22, 2025"
+  description: HIPEAC 2025
+  link: https://www.hipeac.net/2025/barcelona/#/
   deadline:
     - "2024-06-01 23:59"
   comment: Journal-first publication model
@@ -208,14 +208,14 @@
   tags: [HAR]
 
 - name: FPGA
-  year: 2024
-  date: "March 3-5, 2024"
+  year: 2025
+  date: "Feb 27 - Mar 1, 2025"
   description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
   link: http://www.isfpga.org 
   deadline:
-    - "2023-10-13 23:59"
-    - "2023-10-06 23:59"
-  comment: Abstract on Oct 6 / Paper on Oct 13
+    - "2024-10-08 23:59"
+    - "2024-10-01 23:59"
+  comment: Abstract on Oct 1 / Paper on Oct 8
   place: Monterrey, USA
   tags: [HAR]
 
@@ -233,7 +233,7 @@
 
 - name: ISCAS
   year: 2025
-  date: "May 25-28, 2024"
+  date: "May 25-28, 2025"
   description: IEEE International Symposium on Circuits and Systems
   link: https://2025.ieee-iscas.org/
   deadline:
@@ -266,13 +266,15 @@
   tags: [HAR]
 
 - name: Rapido
-  year: 2024
-  date: "January 17-19, 2024"
-  description: 16th Workshop on Rapid Simulation and Performance Evaluation for Design Optimization Methods and Tools 
-  link: https://rapidoworkshop.github.io/2024/cfp.html  
+  year: 2025
+  date: "January 21, 2025"
+  description: 17th Workshop on Rapid Simulation and Performance Evaluation for Design Optimization Methods and Tools 
+  link: https://rapidoworkshop.github.io/2025/  
   deadline:
-    - "2023-11-03 23:59"
-  place: Toulouse, France 
+    - "2024-10-27 23:59"
+    - "2024-11-03 23:59"
+  comment: Abstract on Oct 27 / Paper on Nov 3
+  place: Barcelona, Spain 
   tags: [HAR]
 
 - name: ASAP
@@ -510,4 +512,14 @@
   deadline:
     - "2024-04-03 23:59"
   place: Knoxville, USA
+  tags: [HAR,SEC]
+
+- name: DASIP
+  year: 2025
+  date: "January 20-22, 2025"
+  description: Workshop on Design and Architectures for Signal and Image Processing
+  link: https://dasip25ws.github.io/
+  deadline:
+    - "2024-10-14 23:59"
+  place: Barcelona, Spain
   tags: [HAR,SEC]
