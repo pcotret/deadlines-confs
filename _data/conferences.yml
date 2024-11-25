@@ -1,5 +1,15 @@
 ---
 
+- name: SeHAS
+  year: 2025
+  date: "Jan 21, 2025"
+  description: 7th International Workshop on Secure Hardware, Architectures, and Software 
+  link: https://sehas-workshop.github.io/
+  deadline:
+    - "2024-09-20 23:59"
+  place: Barcelona, Spain
+  tags: [HAR,SEC]
+
 - name: CSR
   year: 2025
   date: "Aug 4-6, 2025"
