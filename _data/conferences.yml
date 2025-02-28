@@ -21,13 +21,13 @@
   tags: [SEC]
 
 - name: RAID
-  year: 2024
-  date: "Sep 30 - Oct 2, 2024"
+  year: 2025
+  date: "Oct 19 - 22, 2025"
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  link: https://raid2024.org/
+  link: https://raid2025.github.io/
   deadline:
-    - "2024-04-09 23:59"
-  place: Padua, Italy
+    - "2025-04-17 23:59"
+  place: Gold Coast, Australia
   tags: [SEC]
 
 - name: BEC
@@ -73,25 +73,25 @@
   tags: [HAR]
 
 - name: FPL
-  year: 2024
-  date: "2-6 September, 2024"
-  description: 34th International Conference on Field Programmable Logic and Applications
-  link: http://asaclab.polito.it/fpl2024/
+  year: 2025
+  date: "September 1-5, 2025"
+  description: 35th International Conference on Field Programmable Logic and Applications
+  link: https://2025.fpl.org/
   deadline:
-    - "2024-03-15 23:59"
-    - "2024-03-22 23:59"
-  comment: Abstract on Mar 15 / Paper on Mar 22
-  place: Turin, Italy
+    - "2025-03-14 23:59"
+    - "2025-03-21 23:59"
+  comment: Abstract on Mar 14 / Paper on Mar 21
+  place: Leiden, Netherlands
   tags: [HAR]
 
 - name: DSD
-  year: 2024
-  date: "August 28-30, 2024"
+  year: 2025
+  date: "September 10-12, 2025"
   description: Euromicro DSD/SEAA
-  link: https://dsd-seaa.com/dsd2024/
+  link: https://dsd-seaa.com/dsd2025/
   deadline:
-    - "2024-05-19 23:59"
-  place: Paris, France
+    - "2025-04-15 23:59"
+  place: Salerno, Italy
   tags: [HAR]
 
 - name: NewCAS
@@ -115,27 +115,27 @@
   tags: [HAR]
 
 - name: CODES+ISSS
-  year: 2024
-  date: "September 29 - October 4, 2024"
+  year: 2025
+  date: "September 28 - October 3, 2025"
   description: International Conference on Hardware/Software Codesign and System Synthesis
   link: https://esweek.org/codes-isss/ 
   deadline:
-    - "2024-03-24 23:59"
-    - "2024-03-31 23:59"
-  comment: Abstract on Mar 24 / Paper on Mar 31
-  place: Raleigh, North Carolina, USA
+    - "2025-03-23 23:59"
+    - "2025-03-30 23:59"
+  comment: Abstract on Mar 23 / Paper on Mar 30
+  place: Taipei, Taiwan
   tags: [HAR]
 
 - name: MICRO
-  year: 2024
-  date: "November 2 - November 6, 2024"
+  year: 2025
+  date: "November 2 - November 6, 2025"
   description: International Symposium on Microarchitecture
-  link: https://microarch.org/micro57/index.php 
+  link: https://microarch.org/micro58/ 
   deadline:
-    - "2024-04-11 23:59"
-    - "2024-04-18 23:59"
-  comment: Abstract on Apr 11 / Paper on Apr 18
-  place: Austin, USA
+    - "2025-04-04 23:59"
+    - "2025-04-11 23:59"
+  comment: Abstract on Apr 04 / Paper on Apr 11
+  place: Seoul, Korea
   tags: [HAR]
 
 - name: CARRV
@@ -149,15 +149,15 @@
   tags: [HAR]
 
 - name: ICCAD
-  year: 2024
-  date: "October - November, 2024"
+  year: 2025
+  date: "October 26-30, 2025"
   description: International Conference on Computer-Aided Design
   link: https://iccad.com
   deadline:
-    - "2024-04-28 23:59"
-    - "2024-05-05 23:59"
-  comment: Abstract on Apr 28 / Paper on May 5
-  place: New York, USA
+    - "2025-04-14 23:59"
+    - "2025-04-21 23:59"
+  comment: Abstract on Apr 14 / Paper on Apr 21
+  place: Munich, Germany
   tags: [HAR]
 
 - name: HIPEAC
@@ -288,25 +288,25 @@
   tags: [HAR]
 
 - name: ASAP
-  year: 2024
-  date: "July 24-26, 2024"
-  description: 35th IEEE International Conference on Application-specific Systems, Architectures and Processors 
-  link: https://www.asap2024.org/
+  year: 2025
+  date: "July 28-30, 2025"
+  description: 36th IEEE International Conference on Application-specific Systems, Architectures and Processors 
+  link: https://www.asap-2025.org/
   deadline:
-    - "2024-02-19 23:59"
-    - "2024-02-26 23:59"
+    - "2025-02-28 23:59"
+    - "2025-03-07 23:59"
   comment: Abstract on Feb 19 / Paper on Feb 26
-  place: Hong Kong 
+  place: Vancouver, Canada 
   tags: [HAR]
 
 - name: MWCAS
-  year: 2024
-  date: "August 11-14, 2024"
+  year: 2025
+  date: "August 10-13, 2025"
   description: 67th IEEE International Midwest Symposium on Circuits and Systems  
-  link: https://www.mwscas2024.org/
+  link: https://www.mwscas2025.org/
   deadline:
-    - "2024-03-22 23:59"
-  place: Springfield, USA 
+    - "2025-03-17 23:59"
+  place: Lansing, USA 
   tags: [HAR]
 
 - name: AsianHOST
@@ -320,23 +320,23 @@
   tags: [HAR,SEC]
 
 - name: CCS
-  year: 2024
-  date: "October 14-18, 2024"
+  year: 2025
+  date: "October 13-17, 2025"
   description: ACM Conference on Computer and Communications Security 
-  link: https://www.sigsac.org/ccs/CCS2024/
+  link: https://www.sigsac.org/ccs/CCS2025/
   deadline:
-    - "2024-01-28 23:59"
-  place: Salt Lake City, USA
+    - "2025-01-09 23:59"
+  place: Taipei, Taiwan
   tags: [SEC]
 
 - name: WOOT
-  year: 2024
-  date: "August 12-13, 2024"
-  description: 18th USENIX WOOT Conference on Offensive Technologies
-  link: https://www.usenix.org/conference/woot24
+  year: 2025
+  date: "August 11-12, 2025"
+  description: 19th USENIX WOOT Conference on Offensive Technologies
+  link: https://www.usenix.org/conference/woot25
   deadline:
-    - "2024-03-12 23:59"
-  place: Philadelphia, USA 
+    - "2025-03-04 23:59"
+  place: Seattle, USA 
   tags: [SEC]
 
 - name: NDSS
@@ -512,13 +512,13 @@
   tags: [HAR]
 
 - name: ISVLSI
-  year: 2024
-  date: "July 1-3, 2024"
+  year: 2025
+  date: "July 6-9, 2025"
   description: IEEE Computer Society Annual Symposium on VLSI
-  link: https://www.ieee-isvlsi.org/ISVLSI_2024_Website/call-for-papers.html
+  link: https://www.ieee-isvlsi.org/ISVLSI_2025_Website/index.html
   deadline:
-    - "2024-04-03 23:59"
-  place: Knoxville, USA
+    - "2025-03-10 23:59"
+  place: Kalamata, Greece
   tags: [HAR,SEC]
 
 - name: DASIP
