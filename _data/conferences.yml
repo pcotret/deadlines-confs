@@ -51,13 +51,13 @@
   tags: [HAR]
   
 - name: ACSAC
-  year: 2024
-  date: "December 9-13, 2024"
+  year: 2025
+  date: "December 9-13, 2025"
   description: Annual Computer Security Applications Conference
   link: https://www.acsac.org/
   deadline:
-    - "2024-05-28 23:59"
-  place: Waikiki, Hawaii, USA
+    - "2025-05-30 23:59"
+  place: Honolulu, Hawaii, USA
   tags: [SEC]
 
 - name: FCCM
@@ -161,26 +161,26 @@
   tags: [HAR]
 
 - name: HIPEAC
-  year: 2025
-  date: "January 20-22, 2025"
-  description: HIPEAC 2025
-  link: https://www.hipeac.net/2025/barcelona/#/
+  year: 2026
+  date: "January 26-28, 2026"
+  description: HIPEAC 2026
+  link: https://www.hipeac.net/2026/krakow/#/
   deadline:
-    - "2024-06-01 23:59"
+    - "2025-06-01 23:59"
   comment: Journal-first publication model
-  place: Barcelona, Spain
+  place: Krakow, Poland
   tags: [HAR]
 
 - name: ICFPT
-  year: 2024
-  date: "December 10-12, 2024"
+  year: 2025
+  date: "December 2-5, 2025"
   description: International Conference on Field Programmable Technology
-  link: https://fpt2024.org/
+  link: https://fpt2025.shanghaitech.edu.cn/
   deadline:
-    - "2024-07-14 23:59"
-    - "2024-07-21 23:59"
-  comment: Abstract on Jul 14 / Paper on Jul 21
-  place: Sydney, Australia
+    - "2025-07-14 23:59"
+    - "2025-07-23 23:59"
+  comment: Abstract on Jul 14 / Paper on Jul 23
+  place: Shanghai, China
   tags: [HAR]
 
 - name: ARCS
@@ -310,13 +310,13 @@
   tags: [HAR]
 
 - name: AsianHOST
-  year: 2024
-  date: "December 16-18, 2024"
+  year: 2025
+  date: "December 19-21, 2025"
   description: Asian Hardware Oriented Security and Trust Symposium 
-  link: https://www.asianhost.org/2024/ 
+  link: https://www.asianhost.org/2025/ 
   deadline:
-    - "2024-07-14 23:59"
-  place: Kobe, Japan 
+    - "2025-07-14 23:59"
+  place: Nanjing, China 
   tags: [HAR,SEC]
 
 - name: CCS
@@ -437,14 +437,15 @@
   tags: [VMOS]
 
 - name: VMIL
-  year: 2024
-  date: "October 20-25, 2024"
+  year: 2025
+  date: "October 12-18, 2025"
   description: Workshop on Virtual Machines and Language Implementations
-  link: https://2024.splashcon.org/home/vmil-2024  
+  link: https://conf.researchr.org/home/icfp-splash-2025/vmil-2025  
   deadline:
-    - "2023-07-07 23:59"
-  comment: Paper on Jul 7
-  place: Pasadena, USA
+    - "2025-07-14 23:59"
+    - "2025-07-21 23:59"
+  comment: Abstract on Jul 14 / Paper on Jul 21
+  place: Singapore, Singapore
   tags: [VMOS]
 
 - name: PLDI
@@ -468,13 +469,13 @@
   tags: [VMOS]
 
 - name: MPLR
-  year: 2024
-  date: "September 19, 2024"
-  description: Managed Programming Languages and Runtimes 2024
-  link: https://conf.researchr.org/home/issta-ecoop-2024/mplr-2024
+  year: 2025
+  date: "October 12-18, 2025"
+  description: Managed Programming Languages and Runtimes 2025
+  link: https://conf.researchr.org/home/icfp-splash-2025/mplr-2025
   deadline:
-    - "2024-05-25 23:59"
-  place: Vienna, Austria
+    - "2025-06-11 23:59"
+  place: Singapore, Singapore
   tags: [VMOS]
 
 - name: GPCE
@@ -502,13 +503,14 @@
   tags: [HAR]
 
 - name: ARC
-  year: 2020
-  date: "October 26-27, 2020"
-  description: 16th International Symposium on Applied Reconfigurable Computing
-  link: https://web.archive.org/web/20230129174931/http://www.arc-symposium.org/
+  year: 2025
+  date: "April 9-11, 2025"
+  description: 21st International Symposium on Applied Reconfigurable Computing
+  link: https://arc2025.org/
   deadline:
-    - "2019-12-22 23:59"
-  place: Toledo, Spain
+    - "2024-12-16 23:59"
+    - "2024-12-21 23:59"
+  place: Sevilla, Spain
   tags: [HAR]
 
 - name: ISVLSI
