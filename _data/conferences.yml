@@ -1,5 +1,26 @@
 ---
 
+- name: ESoRiCS
+  year: 2025
+  date: "Sep 22-26, 2025"
+  description: 30th European Symposium on Research in Computer Security 
+  link: https://esorics2025.sciencesconf.org
+  deadline:
+    - "2025-01-10 23:59"
+    - "2025-04-22 23:59"
+  place: Toulouse, France
+  tags: [SEC]
+
+- name: HS3
+  year: 2025
+  date: "Sep 25, 2025"
+  description: 1st Workshop on Hardware-Supported Software Security 
+  link: https://hs3-workshop.github.io/2025.html
+  deadline:
+    - "2025-06-20 23:59"
+  place: Toulouse, France
+  tags: [HAR,SEC]
+
 - name: SeHAS
   year: 2025
   date: "Jan 21, 2025"
@@ -194,27 +215,27 @@
   tags: [HAR]
 
 - name: ASPDAC
-  year: 2025
-  date: "January 20-23, 2025"
-  description: 29th Asia and South Pacific Design Automation Conference
-  link: https://www.aspdac.com/aspdac2025/cfp/
+  year: 2026
+  date: "January 19-22, 2026"
+  description: 31th Asia and South Pacific Design Automation Conference
+  link: https://www.aspdac.com/aspdac2026/cfp/
   deadline:
-    - "2024-07-05 23:59"
-    - "2024-07-12 23:59"
-  comment: Abstract on Jul 5 / Paper on Jul 12
-  place: Tokyo, Japan
+    - "2025-07-04 16:59"
+    - "2025-07-11 16:59"
+  comment: Abstract on Jul 4 / Paper on Jul 11
+  place: Disneyland, Hong Kong
   tags: [HAR]
 
 - name: HPCA
-  year: 2025
-  date: "Mar 1-3, 2025"
-  description: 31st IEEE International Symposium on High-Performance Computer Architecture
-  link: https://hpca-conf.org/2025/
+  year: 2026
+  date: "Jan 31 – Feb 4, 2026"
+  description: 32nd IEEE International Symposium on High-Performance Computer Architecture
+  link: https://hpca-conf.org/2026/
   deadline:
-    - "2024-07-26 23:59"
-    - "2024-08-02 23:59"
-  comment: Abstract on Jul 26 / Paper on Aug 02
-  place: Las Vegas, USA
+    - "2025-07-25 23:59"
+    - "2025-08-01 23:59"
+  comment: Abstract on Jul 25 / Paper on Aug 01
+  place: Sydney, Australia
   tags: [HAR]
 
 - name: FPGA
@@ -230,25 +251,25 @@
   tags: [HAR]
 
 - name: DATE
-  year: 2025
-  date: "March 31 - April 2, 2025"
+  year: 2026
+  date: "April 20-22, 2026"
   description: Design, Automation and Test in Europe
   link: http://date-conference.com
   deadline:
-    - "2024-09-15 23:59"
-    - "2024-09-22 23:59"
+    - "2025-09-15 23:59"
+    - "2025-09-22 23:59"
   comment: Abstract on Sep 15 / Paper on Sep 22
-  place: Lyon, France 
+  place: Verona, Italy
   tags: [HAR]
 
 - name: ISCAS
   year: 2025
-  date: "May 25-28, 2025"
+  date: "May 24-27, 2026"
   description: IEEE International Symposium on Circuits and Systems
-  link: https://2025.ieee-iscas.org/
+  link: https://2026.ieee-iscas.org/
   deadline:
-    - "2024-10-21 23:59"
-  place: London, United Kingdom
+    - "2025-10-12 23:59"
+  place: Shanghai, China
   tags: [HAR]
 
 - name: DAC
@@ -340,36 +361,35 @@
   tags: [SEC]
 
 - name: NDSS
-  year: 2025
-  date: "Feb 23-28, 2025"
+  year: 2026
+  date: "Feb 23-27, 2026"
   description: The Network and Distributed System Security Symposium 
-  link: https://www.ndss-symposium.org/ndss2025/
+  link: https://www.ndss-symposium.org/ndss2026/
   deadline:
-    - "2024-04-17 23:59"
-    - "2024-07-10 23:59"
+    - "2025-04-23 23:59"
+    - "2025-07-30 23:59"
   place: San Diego, USA
   tags: [SEC]
 
 - name: Asia CCS
-  year: 2025
-  date: "August 25-29, 2024"
+  year: 2026
+  date: "June 1-6, 2026"
   description: 20th ACM ASIA Conference on Computer and Communications Security 
-  link: https://asiaccs2025.hust.edu.vn/
+  link: https://asiaccs2026.cse.iitkgp.ac.in/
   deadline:
     - "2024-09-20 23:59"
-    - "2025-01-20 23:59"
-  place: Hanoi, Vietnam
+  place: Bangalore, India
   tags: [SEC]
 
 - name: HASP
-  year: 2024
-  date: "November 2, 2024"
+  year: 2025
+  date: "October 22, 2025"
   description: Hardware and Architectural Support for Security and Privacy 
-  link: https://haspworkshop.org/2024/
+  link: https://haspworkshop.org/2025/
   deadline:
-    - "2024-08-08 23:59"
-  place: Austin, USA
-  tags: [SEC]
+    - "2025-07-27 23:59"
+  place: Seoul, Korea
+  tags: [HAR,SEC]
 
 - name: SP
   year: 2025
