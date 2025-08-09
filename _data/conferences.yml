@@ -256,9 +256,9 @@
   description: Design, Automation and Test in Europe
   link: http://date-conference.com
   deadline:
-    - "2025-09-15 23:59"
-    - "2025-09-22 23:59"
-  comment: Abstract on Sep 15 / Paper on Sep 22
+    - "2025-09-07 23:59"
+    - "2025-09-14 23:59"
+  comment: Abstract on Sep 07 / Paper on Sep 14
   place: Verona, Italy
   tags: [HAR]
 
