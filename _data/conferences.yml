@@ -22,13 +22,13 @@
   tags: [HAR,SEC]
 
 - name: SeHAS
-  year: 2025
-  date: "Jan 21, 2025"
-  description: 7th International Workshop on Secure Hardware, Architectures, and Software 
+  year: 2026
+  date: "Jan 26, 2026"
+  description: 8th International Workshop on Secure Hardware, Architectures, and Software 
   link: https://sehas-workshop.github.io/
   deadline:
-    - "2024-09-20 23:59"
-  place: Barcelona, Spain
+    - "2025-09-15 23:59"
+  place: Krakow, Poland
   tags: [HAR,SEC]
 
 - name: CSR
@@ -239,14 +239,14 @@
   tags: [HAR]
 
 - name: FPGA
-  year: 2025
-  date: "Feb 27 - Mar 1, 2025"
+  year: 2026
+  date: "Feb 22-24, 2026"
   description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
   link: http://www.isfpga.org 
   deadline:
-    - "2024-10-08 23:59"
-    - "2024-10-01 23:59"
-  comment: Abstract on Oct 1 / Paper on Oct 8
+    - "2025-09-24 23:59"
+    - "2025-10-01 23:59"
+  comment: Abstract on Sep 24 / Paper on Oct 1
   place: Monterrey, USA
   tags: [HAR]
 
@@ -403,13 +403,14 @@
   tags: [SEC]
 
 - name: HOST
-  year: 2025
-  date: "May 5-8, 2025"
+  year: 2026
+  date: "May 4-7, 2026"
   description: IEEE International Symposium on Hardware Oriented Security and Trust 
   link: http://www.hostsymposium.org/call-for-paper.php   
   deadline:
-    - "2024-09-09 23:59"
-  place: San Jose, USA
+    - "2025-08-19 23:59"
+    - "2025-12-01 23:59"
+  place: Washington, USA
   tags: [HAR,SEC]
 
 - name: Usenix
