@@ -62,13 +62,13 @@
   tags: [HAR]
 
 - name: RAW
-  year: 2025
-  date: "June 3-4, 2025"
-  description: 31st Reconfigurable Architectures Workshop
+  year: 2026
+  date: "May 25-27, 2026"
+  description: 33rd Reconfigurable Architectures Workshop
   link: https://raw.necst.it/
   deadline:
-    - "2025-01-29 23:59"
-  place: Milan, Italy
+    - "2026-01-29 23:59"
+  place: New Orleans, USA
   tags: [HAR]
   
 - name: ACSAC
@@ -82,15 +82,15 @@
   tags: [SEC]
 
 - name: FCCM
-  year: 2025
-  date: "May 4-7, 2025"
-  description: 32nd IEEE International Symposium on Field-Programmable Custom Computing Machines
+  year: 2026
+  date: "May 13-16, 2026"
+  description: 34th IEEE International Symposium on Field-Programmable Custom Computing Machines
   link: http://fccm.org
   deadline:
-    - "2025-01-10 23:59"
-    - "2025-01-17 23:59"
+    - "2026-01-10 23:59"
+    - "2026-01-17 23:59"
   comment: Abstract on Jan 10 / Paper on Jan 17
-  place: Fayetteville, Arkansas, USA
+  place: Atlanta, USA
   tags: [HAR]
 
 - name: FPL
@@ -116,13 +116,13 @@
   tags: [HAR]
 
 - name: NewCAS
-  year: 2025
-  date: "June 22-25, 2025"
-  description: 23rd IEEE International NEWCAS Conference
-  link: https://www.newcas2025.com/
+  year: 2026
+  date: "June 21-24, 2026"
+  description: 24th IEEE International NEWCAS Conference
+  link: https://newcas.org/
   deadline:
-    - "2025-02-03 23:59"
-  place: Paris, France
+    - "2026-02-09 23:59"
+  place: Saguenay, Québec
   tags: [HAR]
 
 - name: SILM
@@ -263,7 +263,7 @@
   tags: [HAR]
 
 - name: ISCAS
-  year: 2025
+  year: 2026
   date: "May 24-27, 2026"
   description: IEEE International Symposium on Circuits and Systems
   link: https://2026.ieee-iscas.org/
@@ -285,27 +285,27 @@
   tags: [HAR]
 
 - name: ISCA
-  year: 2025
-  date: "June 21 - 25, 2025"
+  year: 2026
+  date: "June 27– July 1, 2026"
   description: International Symposium on Computer Architecture 
-  link: https://iscaconf.org/isca2025/  
+  link: https://iscaconf.org/isca2026/  
   deadline:
-    - "2024-11-15 23:59"
-    - "2024-11-22 23:59"
-  comment: Abstract on Nov 15 / Paper on Nov 22
-  place: Tokyo, Japan
+    - "2025-11-10 23:59"
+    - "2025-11-17 23:59"
+  comment: Abstract on Nov 10 / Paper on Nov 17
+  place: Raleigh, USA
   tags: [HAR]
 
 - name: Rapido
-  year: 2025
-  date: "January 21, 2025"
+  year: 2026
+  date: "Jan 26-28, 2026"
   description: 17th Workshop on Rapid Simulation and Performance Evaluation for Design Optimization Methods and Tools 
-  link: https://rapidoworkshop.github.io/2025/  
+  link: https://rapidoworkshop.github.io/2026/  
   deadline:
-    - "2024-10-27 23:59"
-    - "2024-11-03 23:59"
-  comment: Abstract on Oct 27 / Paper on Nov 3
-  place: Barcelona, Spain 
+    - "2025-10-24 23:59"
+    - "2025-10-21 23:59"
+  comment: Abstract on Oct 24 / Paper on Oct 31
+  place: Krakow, Poland
   tags: [HAR]
 
 - name: ASAP
@@ -321,13 +321,13 @@
   tags: [HAR]
 
 - name: MWCAS
-  year: 2025
-  date: "August 10-13, 2025"
-  description: 67th IEEE International Midwest Symposium on Circuits and Systems  
-  link: https://www.mwscas2025.org/
+  year: 2026
+  date: "August 9-12, 2026"
+  description: 68th IEEE International Midwest Symposium on Circuits and Systems  
+  link: https://mwscas2026.org/
   deadline:
-    - "2025-03-17 23:59"
-  place: Lansing, USA 
+    - "2026-03-17 23:59"
+  place: Unknown yet 
   tags: [HAR]
 
 - name: AsianHOST
@@ -535,18 +535,18 @@
   tags: [HAR]
 
 - name: ISVLSI
-  year: 2025
-  date: "July 6-9, 2025"
+  year: 2026
+  date: "July 7-10, 2026"
   description: IEEE Computer Society Annual Symposium on VLSI
-  link: https://www.ieee-isvlsi.org/ISVLSI_2025_Website/index.html
+  link: https://ieee-isvlsi.github.io/ISVLSI_2026_Website/index.html
   deadline:
-    - "2025-03-10 23:59"
-  place: Kalamata, Greece
+    - "2026-02-10 23:59"
+  place: Kolkata, India
   tags: [HAR,SEC]
 
 - name: DASIP
   year: 2026
-  date: "January 20-22, 2025"
+  date: "January 20-22, 2026"
   description: Workshop on Design and Architectures for Signal and Image Processing
   link: https://dasip-2026.github.io/
   deadline:
