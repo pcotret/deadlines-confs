@@ -1,5 +1,15 @@
 ---
 
+- name: CASCADE
+  year: 2026
+  date: "Mar 30 - Apr 1, 2026"
+  description: Constructive Approaches for SeCurity Analysis and Design of Embedded systems 
+  link: https://cascade-conference.org/
+  deadline:
+    - "2025-12-05 23:59"
+  place: Regensburg, Germany
+  tags: [SEC]
+
 - name: ESoRiCS
   year: 2025
   date: "Sep 22-26, 2025"
