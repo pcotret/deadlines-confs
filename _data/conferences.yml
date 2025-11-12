@@ -215,13 +215,14 @@
   tags: [HAR]
 
 - name: ARCS
-  year: 2025
-  date: "April 22-24, 2025"
+  year: 2026
+  date: "March 24-26, 2026"
   description: INTERNATIONAL CONFERENCE ON ARCHITECTURE OF COMPUTING SYSTEMS
-  link: https://arcs-conference.org/call-for-papers
+  link: https://arcs-conference.org/
   deadline:
-    - "2025-01-26 23:59"
-  place: Kiel, Germany
+    - "2026-01-11 23:59"
+    - "2026-01-18 23:59"
+  place: Mainz, Germany
   tags: [HAR]
 
 - name: ASPDAC
@@ -283,15 +284,15 @@
   tags: [HAR]
 
 - name: DAC
-  year: 2025
-  date: "June 22-25 2025"
+  year: 2026
+  date: "July 26-29 2026"
   description: Design Automation Conference 
   link: http://www.dac.com 
   deadline:
-    - "2024-11-12 23:59"
-    - "2024-11-20 23:59"
-  comment: Abstract on Nov 12 / Paper on Nov 20
-  place: San Francisco, USA 
+    - "2025-11-11 23:59"
+    - "2025-11-18 23:59"
+  comment: Abstract on Nov 11 / Paper on Nov 18
+  place: Long Beach, USA 
   tags: [HAR]
 
 - name: ISCA
@@ -351,23 +352,25 @@
   tags: [HAR,SEC]
 
 - name: CCS
-  year: 2025
-  date: "October 13-17, 2025"
+  year: 2026
+  date: "November 15-19, 2026"
   description: ACM Conference on Computer and Communications Security 
-  link: https://www.sigsac.org/ccs/CCS2025/
+  link: https://www.sigsac.org/ccs/CCS2026/
   deadline:
-    - "2025-01-09 23:59"
-  place: Taipei, Taiwan
+    - "2026-01-14 23:59"
+    - "2026-04-29 23:59"
+  place: The Hague, Netherlands
   tags: [SEC]
 
 - name: WOOT
-  year: 2025
-  date: "August 11-12, 2025"
-  description: 19th USENIX WOOT Conference on Offensive Technologies
-  link: https://www.usenix.org/conference/woot25
+  year: 2026
+  date: "August 10-11, 2026"
+  description: 20th USENIX WOOT Conference on Offensive Technologies
+  link: https://www.usenix.org/conference/woot26
   deadline:
-    - "2025-03-04 23:59"
-  place: Seattle, USA 
+    - "2025-12-12 23:59"
+    - "2026-03-03 23:59"
+  place: Baltimore, USA 
   tags: [SEC]
 
 - name: NDSS
