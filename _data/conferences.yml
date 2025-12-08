@@ -11,14 +11,14 @@
   tags: [SEC]
 
 - name: ESoRiCS
-  year: 2025
-  date: "Sep 22-26, 2025"
-  description: 30th European Symposium on Research in Computer Security 
-  link: https://esorics2025.sciencesconf.org
+  year: 2026
+  date: "September 2026"
+  description: 31st European Symposium on Research in Computer Security 
+  link: https://sites.google.com/di.uniroma1.it/esorics2026/
   deadline:
-    - "2025-01-10 23:59"
-    - "2025-04-22 23:59"
-  place: Toulouse, France
+    - "2026-01-09 23:59"
+    - "2026-04-21 23:59"
+  place: Rome, Italy
   tags: [SEC]
 
 - name: HS3
@@ -42,13 +42,13 @@
   tags: [HAR,SEC]
 
 - name: CSR
-  year: 2025
-  date: "Aug 4-6, 2025"
+  year: 2026
+  date: "Aug 3-5, 2026"
   description: IEEE International Conference on Cyber Security and Resilience
   link: https://www.ieee-csr.org/
   deadline:
-    - "2025-02-10 23:59"
-  place: Chania, Greece
+    - "2026-02-02 23:59"
+  place: Lisbon, Portugal
   tags: [SEC]
 
 - name: RAID
@@ -62,12 +62,12 @@
   tags: [SEC]
 
 - name: BEC
-  year: 2024
-  date: "October 2-4, 2024"
-  description: The 19th Biennial Baltic Electronics Conference
-  link: https://taltech.ee/en/bec2024
+  year: 2026
+  date: "October 6-8, 2026"
+  description: The 20nd Biennial Baltic Electronics Conference
+  link: https://taltech.ee/en/bec2026
   deadline:
-    - "2024-05-17 23:59"
+    - "2026-05-25 23:59"
   place: Tallinn, Estonia
   tags: [HAR]
 
@@ -104,25 +104,25 @@
   tags: [HAR]
 
 - name: FPL
-  year: 2025
-  date: "September 1-5, 2025"
-  description: 35th International Conference on Field Programmable Logic and Applications
-  link: https://2025.fpl.org/
+  year: 2026
+  date: "September 7-11, 2026"
+  description: 36th International Conference on Field Programmable Logic and Applications
+  link: https://2026.fpl.org/
   deadline:
-    - "2025-03-14 23:59"
-    - "2025-03-21 23:59"
-  comment: Abstract on Mar 14 / Paper on Mar 21
-  place: Leiden, Netherlands
+    - "2026-03-20 23:59"
+    - "2026-03-27 23:59"
+  comment: Abstract on Mar 20 / Paper on Mar 27
+  place: Ghent, Belgium
   tags: [HAR]
 
 - name: DSD
-  year: 2025
-  date: "September 10-12, 2025"
-  description: Euromicro DSD/SEAA
-  link: https://dsd-seaa.com/dsd2025/
+  year: 2026
+  date: "September 02-04, 2026"
+  description: 29th Euromicro Conference Series on Digital System Design (DSD)
+  link: https://dsd-seaa.com/dsd2026/
   deadline:
-    - "2025-04-15 23:59"
-  place: Salerno, Italy
+    - "2026-04-15 23:59"
+  place: Krakow, Poland
   tags: [HAR]
 
 - name: NewCAS
