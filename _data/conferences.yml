@@ -1,5 +1,17 @@
 ---
 
+- name: HEART
+  year: 2026
+  date: "Jun 17-19, 2026"
+  description: Highly Efficient Accelerators and Reconfigurable Technologies 
+  link: https://heart2026.github.io/
+  deadline:
+    - "2026-03-02 23:59"
+  place: Heidelberg, Germany
+  tags: [HAR]
+
+
+
 - name: SysTEX
   year: 2026
   date: "Apr 27, 2026"
