@@ -1,5 +1,16 @@
 ---
 
+- name: GLSVLSI
+  year: 2026
+  date: "Jun 22-24, 2026"
+  description: Great Lakes Symposium on VLSI (GLSVLSI) 
+  link: https://www.glsvlsi.org/
+  deadline:
+    - "2026-03-02 23:59"
+  place: Finger Lakes, USA
+  tags: [HAR]
+
+
 - name: HEART
   year: 2026
   date: "Jun 17-19, 2026"
@@ -85,7 +96,7 @@
 
 - name: BEC
   year: 2026
-  date: "October 6-8, 2026"
+  date: "October 5-8, 2026"
   description: The 20nd Biennial Baltic Electronics Conference
   link: https://taltech.ee/en/bec2026
   deadline:
@@ -168,15 +179,15 @@
   tags: [HAR]
 
 - name: CODES+ISSS
-  year: 2025
-  date: "September 28 - October 3, 2025"
+  year: 2026
+  date: "October 4-9, 2026"
   description: International Conference on Hardware/Software Codesign and System Synthesis
   link: https://esweek.org/codes-isss/ 
   deadline:
-    - "2025-03-23 23:59"
-    - "2025-03-30 23:59"
+    - "2026-03-23 23:59"
+    - "2026-03-30 23:59"
   comment: Abstract on Mar 23 / Paper on Mar 30
-  place: Taipei, Taiwan
+  place: Barcelona, Spain
   tags: [HAR]
 
 - name: MICRO
@@ -559,14 +570,14 @@
   tags: [HAR]
 
 - name: ARC
-  year: 2025
-  date: "April 9-11, 2025"
-  description: 21st International Symposium on Applied Reconfigurable Computing
-  link: https://arc2025.org/
+  year: 2026
+  date: "April 8-10, 2026"
+  description: 22nd International Symposium on Applied Reconfigurable Computing
+  link: https://www.arc2026.org/
   deadline:
-    - "2024-12-16 23:59"
-    - "2024-12-21 23:59"
-  place: Sevilla, Spain
+    - "2025-02-08 23:59"
+    - "2025-02-15 23:59"
+  place: Cagliari, Italy
   tags: [HAR]
 
 - name: ISVLSI
