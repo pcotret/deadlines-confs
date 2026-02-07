@@ -1,5 +1,15 @@
 ---
 
+- name: PROOFS
+  year: 2026
+  date: "Oct 11-15, 2026"
+  description: 14th International Workshop on Security Proofs for Embedded Systems 
+  link: https://www.proofs-workshop.org/2026/index.html
+  deadline:
+    - "2026-03-15 23:59"
+  place: Antalya, Turkey
+  tags: [HAR,SEC]
+
 - name: GLSVLSI
   year: 2026
   date: "Jun 22-24, 2026"
