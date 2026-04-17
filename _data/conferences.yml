@@ -65,13 +65,13 @@
   tags: [SEC]
 
 - name: HS3
-  year: 2025
-  date: "Sep 25, 2025"
-  description: 1st Workshop on Hardware-Supported Software Security 
-  link: https://hs3-workshop.github.io/2025.html
+  year: 2026
+  date: "Sep 14, 2025"
+  description: 2nd Workshop on Hardware-Supported Software Security 
+  link: https://hs3-workshop.github.io/2026.html
   deadline:
-    - "2025-06-20 23:59"
-  place: Toulouse, France
+    - "2026-06-19 23:59"
+  place: Rome, Italy
   tags: [HAR,SEC]
 
 - name: SeHAS
@@ -95,13 +95,13 @@
   tags: [SEC]
 
 - name: RAID
-  year: 2025
-  date: "Oct 19 - 22, 2025"
+  year: 2026
+  date: "Oct 11 - 14, 2026"
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  link: https://raid2025.github.io/
+  link: https://raid2026.org/
   deadline:
-    - "2025-04-17 23:59"
-  place: Gold Coast, Australia
+    - "2026-04-16 23:59"
+  place: Lancaster, United Kingdom
   tags: [SEC]
 
 - name: BEC
@@ -125,13 +125,13 @@
   tags: [HAR]
   
 - name: ACSAC
-  year: 2025
-  date: "December 9-13, 2025"
+  year: 2026
+  date: "December 7-11, 2026"
   description: Annual Computer Security Applications Conference
   link: https://www.acsac.org/
   deadline:
-    - "2025-05-30 23:59"
-  place: Honolulu, Hawaii, USA
+    - "2026-05-26 23:59"
+  place: Los Angeles, California, USA
   tags: [SEC]
 
 - name: FCCM
@@ -201,14 +201,14 @@
   tags: [HAR]
 
 - name: MICRO
-  year: 2025
-  date: "November 2 - November 6, 2025"
+  year: 2026
+  date: "October 31 - November 4, 2026"
   description: International Symposium on Microarchitecture
-  link: https://microarch.org/micro58/ 
+  link: https://microarch.org/micro59/ 
   deadline:
-    - "2025-04-04 23:59"
-    - "2025-04-11 23:59"
-  comment: Abstract on Apr 04 / Paper on Apr 11
+    - "2026-03-31 23:59"
+    - "2026-04-07 23:59"
+  comment: Abstract on Mar 31 / Paper on Apr 7
   place: Seoul, Korea
   tags: [HAR]
 
@@ -223,14 +223,14 @@
   tags: [HAR]
 
 - name: ICCAD
-  year: 2025
-  date: "October 26-30, 2025"
+  year: 2026
+  date: "November 8-12, 2026"
   description: International Conference on Computer-Aided Design
   link: https://iccad.com
   deadline:
-    - "2025-04-14 23:59"
-    - "2025-04-21 23:59"
-  comment: Abstract on Apr 14 / Paper on Apr 21
+    - "2026-04-07 23:59"
+    - "2026-04-14 23:59"
+  comment: Abstract on Apr 07 / Paper on Apr 14
   place: Munich, Germany
   tags: [HAR]
 
@@ -363,15 +363,14 @@
   tags: [HAR]
 
 - name: ASAP
-  year: 2025
-  date: "July 28-30, 2025"
-  description: 36th IEEE International Conference on Application-specific Systems, Architectures and Processors 
-  link: https://www.asap-2025.org/
+  year: 2026
+  description: 37th IEEE International Conference on Application-specific Systems, Architectures and Processors 
+  link: https://2026.asap-conf.org/
   deadline:
-    - "2025-02-28 23:59"
-    - "2025-03-07 23:59"
-  comment: Abstract on Feb 19 / Paper on Feb 26
-  place: Vancouver, Canada 
+    - "2026-04-03 23:59"
+    - "2026-04-10 23:59"
+  comment: Abstract on Apr 3 / Paper on Apr 10
+  place: London, United Kingdom 
   tags: [HAR]
 
 - name: MWCAS
@@ -385,13 +384,13 @@
   tags: [HAR]
 
 - name: AsianHOST
-  year: 2025
-  date: "December 19-21, 2025"
+  year: 2026
+  date: "December 11-13, 2026"
   description: Asian Hardware Oriented Security and Trust Symposium 
-  link: https://www.asianhost.org/2025/ 
+  link: https://www.asianhost.org/2026/
   deadline:
-    - "2025-07-14 23:59"
-  place: Nanjing, China 
+    - "2026-07-14 23:59"
+  place: Kharagpur, India
   tags: [HAR,SEC]
 
 - name: CCS
