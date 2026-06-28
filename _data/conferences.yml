@@ -66,11 +66,11 @@
 
 - name: HS3
   year: 2026
-  date: "Sep 14, 2025"
+  date: "Sep 17, 2026"
   description: 2nd Workshop on Hardware-Supported Software Security 
   link: https://hs3-workshop.github.io/2026.html
   deadline:
-    - "2026-06-19 23:59"
+    - "2026-06-29 23:59"
   place: Rome, Italy
   tags: [HAR,SEC]
 
@@ -246,14 +246,14 @@
   tags: [HAR]
 
 - name: ICFPT
-  year: 2025
-  date: "December 2-5, 2025"
+  year: 2026
+  date: "December 7-10, 2026"
   description: International Conference on Field Programmable Technology
-  link: https://fpt2025.shanghaitech.edu.cn/
+  link: https://fpt2026.uark.edu/
   deadline:
-    - "2025-07-14 23:59"
-    - "2025-07-23 23:59"
-  comment: Abstract on Jul 14 / Paper on Jul 23
+    - "2026-05-01 23:59"
+    - "2026-06-19 23:59"
+  comment: Journal on May 1 / Paper on Jun 19
   place: Shanghai, China
   tags: [HAR]
 
@@ -269,27 +269,27 @@
   tags: [HAR]
 
 - name: ASPDAC
-  year: 2026
-  date: "January 19-22, 2026"
-  description: 31th Asia and South Pacific Design Automation Conference
-  link: https://www.aspdac.com/aspdac2026/cfp/
+  year: 2027
+  date: "January 25-28, 2027"
+  description: 32nd Asia and South Pacific Design Automation Conference
+  link: https://www.aspdac.com/aspdac2027/cfp/
   deadline:
-    - "2025-07-04 16:59"
-    - "2025-07-11 16:59"
-  comment: Abstract on Jul 4 / Paper on Jul 11
-  place: Disneyland, Hong Kong
+    - "2026-07-11 16:59"
+    - "2026-07-18 16:59"
+  comment: Abstract on Jul 11 / Paper on Jul 18
+  place: Tokyo, Japan
   tags: [HAR]
 
 - name: HPCA
-  year: 2026
-  date: "Jan 31 – Feb 4, 2026"
-  description: 32nd IEEE International Symposium on High-Performance Computer Architecture
-  link: https://hpca-conf.org/2026/
+  year: 2027
+  date: "Jan 30 – Feb 3, 2027"
+  description: 33rd IEEE International Symposium on High-Performance Computer Architecture
+  link: https://conf.researchr.org/home/hpca-2027
   deadline:
-    - "2025-07-25 23:59"
-    - "2025-08-01 23:59"
+    - "2026-07-25 23:59"
+    - "2026-08-01 23:59"
   comment: Abstract on Jul 25 / Paper on Aug 01
-  place: Sydney, Australia
+  place: Salt Lake City, Utah
   tags: [HAR]
 
 - name: FPGA
@@ -305,25 +305,25 @@
   tags: [HAR]
 
 - name: DATE
-  year: 2026
-  date: "April 20-22, 2026"
+  year: 2027
+  date: "March 22-24, 2027"
   description: Design, Automation and Test in Europe
   link: http://date-conference.com
   deadline:
-    - "2025-09-07 23:59"
-    - "2025-09-14 23:59"
-  comment: Abstract on Sep 07 / Paper on Sep 14
-  place: Verona, Italy
+    - "2026-09-13 23:59"
+    - "2026-09-20 23:59"
+  comment: Abstract on Sep 13 / Paper on Sep 20
+  place: Dresden, Germany
   tags: [HAR]
 
 - name: ISCAS
-  year: 2026
-  date: "May 24-27, 2026"
+  year: 2027
+  date: "June 6-9, 2027"
   description: IEEE International Symposium on Circuits and Systems
-  link: https://2026.ieee-iscas.org/
+  link: https://2027.ieee-iscas.org/
   deadline:
-    - "2025-10-12 23:59"
-  place: Shanghai, China
+    - "2026-10-13 23:59"
+  place: Bordeaux, France
   tags: [HAR]
 
 - name: DAC
@@ -416,67 +416,67 @@
   tags: [SEC]
 
 - name: NDSS
-  year: 2026
-  date: "Feb 23-27, 2026"
+  year: 2027
+  date: "Mar 22-26, 2027"
   description: The Network and Distributed System Security Symposium 
-  link: https://www.ndss-symposium.org/ndss2026/
+  link: https://www.ndss-symposium.org/ndss2027
   deadline:
-    - "2025-04-23 23:59"
-    - "2025-07-30 23:59"
-  place: San Diego, USA
+    - "2026-05-06 23:59"
+    - "2026-08-19 23:59"
+  place: Seoul, Korea
   tags: [SEC]
 
 - name: Asia CCS
-  year: 2026
-  date: "June 1-6, 2026"
-  description: 20th ACM ASIA Conference on Computer and Communications Security 
-  link: https://asiaccs2026.cse.iitkgp.ac.in/
+  year: 2027  
+  date: "July 12-16, 2027"
+  description: 22nd ACM ASIA Conference on Computer and Communications Security 
+  link: https://asiaccs2027.cityu.edu.mo/
   deadline:
-    - "2025-08-25 23:59"
-  place: Bangalore, India
+    - "2026-08-21 23:59"
+    - "2026-12-11 23:59"
+  place: Macau, China
   tags: [SEC]
 
 - name: HASP
-  year: 2025
-  date: "October 22, 2025"
+  year: 2026
+  date: "October 31, 2026"
   description: Hardware and Architectural Support for Security and Privacy 
-  link: https://haspworkshop.org/2025/
+  link: https://www.haspworkshop.org/2026/index.html
   deadline:
-    - "2025-07-27 23:59"
-  place: Seoul, Korea
+    - "2026-08-10 23:59"
+  place: Athens, Greece
   tags: [HAR,SEC]
 
 - name: SP
   year: 2026
-  date: "May 18-21, 2026"
+  date: "May 18-21, 2027"
   description: IEEE Symposium on Security and Privacy 
-  link: https://sp2026.ieee-security.org/index.html
+  link: https://sp2027.ieee-security.org/index.html
   deadline:
-    - "2025-05-29 23:59"
-    - "2025-10-06 23:59"
-  place: San Francisco, USA
+    - "2026-06-04 23:59"
+    - "2026-11-10 23:59"
+  place: Montréal, Canada
   tags: [SEC]
 
 - name: HOST
-  year: 2026
-  date: "May 4-7, 2026"
+  year: 2027
+  date: "May 3-6, 2027"
   description: IEEE International Symposium on Hardware Oriented Security and Trust 
   link: http://www.hostsymposium.org/call-for-paper.php   
   deadline:
-    - "2025-08-19 23:59"
-    - "2025-12-01 23:59"
+    - "2026-07-22 23:59"
+    - "2026-11-08 23:59"
   place: Washington, USA
   tags: [HAR,SEC]
 
 - name: Usenix
-  year: 2026
-  date: "August 12-14, 2026"
+  year: 2027
   description: 35th USENIX Security Symposium 
-  link: https://www.usenix.org/conference/usenixsecurity26   
+  link: https://www.usenix.org/conference/usenixsecurity27   
   deadline:
-    - "2025-08-19 23:59"
-    - "2026-01-29 23:59"
-  place: Baltimore, USA
+    - "2026-08-18 23:59"
+    - "2026-08-25 23:59"
+  place: Denver, USA
   tags: [SEC]
 
 - name: Cryptarchi
@@ -545,13 +545,13 @@
   tags: [VMOS]
 
 - name: MPLR
-  year: 2025
-  date: "October 12-18, 2025"
+  year: 2026
+  date: "June 30, 2026"
   description: Managed Programming Languages and Runtimes 2025
-  link: https://conf.researchr.org/home/icfp-splash-2025/mplr-2025
+  link: https://2026.ecoop.org/home/mplr-2026
   deadline:
-    - "2025-06-11 23:59"
-  place: Singapore, Singapore
+    - "2026-03-13 23:59"
+  place: Brussels, Belgium
   tags: [VMOS]
 
 - name: GPCE
@@ -600,12 +600,12 @@
   tags: [HAR,SEC]
 
 - name: DASIP
-  year: 2026
-  date: "January 20-22, 2026"
+  year: 2027
+  date: "January 18-20, 2027"
   description: Workshop on Design and Architectures for Signal and Image Processing
-  link: https://dasip-2026.github.io/
+  link: https://dasip-2027.github.io/
   deadline:
-    - "2025-09-15 23:59"
-    - "2025-11-10 23:59"
-  place: Krakow, Poland
+    - "2026-08-18 23:59"
+    - "2026-10-20 23:59"
+  place: Glasgow, Scotland
   tags: [HAR]
