@@ -75,13 +75,13 @@
   tags: [HAR,SEC]
 
 - name: SeHAS
-  year: 2026
-  date: "Jan 26, 2026"
-  description: 8th International Workshop on Secure Hardware, Architectures, and Software 
+  year: 2027
+  date: "Jan 18-20, 2027"
+  description: Workshop on Secure Hardware, Architectures, and Software 
   link: https://sehas-workshop.github.io/
   deadline:
-    - "2025-09-15 23:59"
-  place: Krakow, Poland
+    - "2026-09-11 23:59"
+  place: Glasgow, Scotland
   tags: [HAR,SEC]
 
 - name: CSR
