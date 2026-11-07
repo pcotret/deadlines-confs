@@ -44,24 +44,24 @@
   tags: [SEC]
 
 - name: CASCADE
-  year: 2026
-  date: "Mar 30 - Apr 1, 2026"
+  year: 2027
+  date: "Apr 4-7, 2027"
   description: Constructive Approaches for SeCurity Analysis and Design of Embedded systems 
   link: https://cascade-conference.org/
   deadline:
-    - "2025-12-05 23:59"
-  place: Regensburg, Germany
+    - "2026-11-17 23:59"
+  place: Heilbronn, Germany
   tags: [SEC]
 
 - name: ESoRiCS
-  year: 2026
-  date: "September 2026"
-  description: 31st European Symposium on Research in Computer Security 
-  link: https://sites.google.com/di.uniroma1.it/esorics2026/
+  year: 2027
+  date: "Sep 13-17, 2027"
+  description: 32nd European Symposium on Research in Computer Security 
+  link: https://www.esorics2027.org/
   deadline:
-    - "2026-01-09 23:59"
-    - "2026-04-21 23:59"
-  place: Rome, Italy
+    - "2027-01-09 23:59"
+    - "2027-04-21 23:59"
+  place: Vienna, Austria
   tags: [SEC]
 
 - name: HS3
@@ -115,13 +115,13 @@
   tags: [HAR]
 
 - name: RAW
-  year: 2026
-  date: "May 25-27, 2026"
-  description: 33rd Reconfigurable Architectures Workshop
+  year: 2027
+  date: "TBA"
+  description: 34th Reconfigurable Architectures Workshop
   link: https://raw.necst.it/
   deadline:
-    - "2026-02-07 23:59"
-  place: New Orleans, USA
+    - "2027-02-07 23:59"
+  place: Seattle, USA
   tags: [HAR]
   
 - name: ACSAC
@@ -136,14 +136,14 @@
 
 - name: FCCM
   year: 2026
-  date: "May 13-16, 2026"
-  description: 34th IEEE International Symposium on Field-Programmable Custom Computing Machines
+  date: "May 9-12, 2027"
+  description: 35th IEEE International Symposium on Field-Programmable Custom Computing Machines
   link: http://fccm.org
   deadline:
-    - "2026-01-10 23:59"
-    - "2026-01-17 23:59"
+    - "2027-01-10 23:59"
+    - "2027-01-17 23:59"
   comment: Abstract on Jan 10 / Paper on Jan 17
-  place: Atlanta, USA
+  place: Provo, Utah, USA
   tags: [HAR]
 
 - name: FPL
@@ -235,14 +235,14 @@
   tags: [HAR]
 
 - name: HIPEAC
-  year: 2026
-  date: "January 26-28, 2026"
-  description: HIPEAC 2026
-  link: https://www.hipeac.net/2026/krakow/#/
+  year: 2027
+  date: "January 26-28, 2027"
+  description: HIPEAC 2027
+  link: https://www.hipeac.net/2027/glasgow/#/
   deadline:
-    - "2025-06-01 23:59"
+    - "2026-06-01 23:59"
   comment: Journal-first publication model
-  place: Krakow, Poland
+  place: Glasgow, Scotland
   tags: [HAR]
 
 - name: ICFPT
@@ -293,14 +293,14 @@
   tags: [HAR]
 
 - name: FPGA
-  year: 2026
-  date: "Feb 22-24, 2026"
+  year: 2027
+  date: "March 14-16, 2027"
   description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
   link: http://www.isfpga.org 
   deadline:
-    - "2025-09-24 23:59"
-    - "2025-10-01 23:59"
-  comment: Abstract on Sep 24 / Paper on Oct 1
+    - "2026-10-01 23:59"
+    - "2026-10-08 23:59"
+  comment: Abstract on Oct 1 / Paper on Oct 8
   place: Monterrey, USA
   tags: [HAR]
 
@@ -327,39 +327,39 @@
   tags: [HAR]
 
 - name: DAC
-  year: 2026
-  date: "July 26-29 2026"
+  year: 2027
+  date: "July 11-14, 2027"
   description: Design Automation Conference 
   link: http://www.dac.com 
   deadline:
-    - "2025-11-11 23:59"
-    - "2025-11-18 23:59"
+    - "2026-11-11 23:59"
+    - "2026-11-18 23:59"
   comment: Abstract on Nov 11 / Paper on Nov 18
-  place: Long Beach, USA 
+  place: San Jose, USA 
   tags: [HAR]
 
 - name: ISCA
-  year: 2026
-  date: "June 27– July 1, 2026"
+  year: 2027
+  date: "June 5-9, 2027"
   description: International Symposium on Computer Architecture 
-  link: https://iscaconf.org/isca2026/  
+  link: https://iscaconf.org/isca2027/ 
   deadline:
-    - "2025-11-10 23:59"
-    - "2025-11-17 23:59"
-  comment: Abstract on Nov 10 / Paper on Nov 17
-  place: Raleigh, USA
+    - "2026-11-09 23:59"
+    - "2026-11-16 23:59"
+  comment: Abstract on Nov 09 / Paper on Nov 16
+  place: Atlanta, USA
   tags: [HAR]
 
 - name: Rapido
-  year: 2026
-  date: "Jan 26-28, 2026"
+  year: 2027
+  date: "Jan 20, 2027"
   description: 17th Workshop on Rapid Simulation and Performance Evaluation for Design Optimization Methods and Tools 
-  link: https://rapidoworkshop.github.io/2026/  
+  link: https://rapidoworkshop.github.io/2027/ 
   deadline:
-    - "2025-10-24 23:59"
-    - "2025-10-21 23:59"
-  comment: Abstract on Oct 24 / Paper on Oct 31
-  place: Krakow, Poland
+    - "2026-11-07 23:59"
+    - "2026-11-13 23:59"
+  comment: Abstract on Nov 07 / Paper on Nov 13
+  place: Glasgow, UK
   tags: [HAR]
 
 - name: ASAP
@@ -405,14 +405,14 @@
   tags: [SEC]
 
 - name: WOOT
-  year: 2026
-  date: "August 10-11, 2026"
+  year: 2027
+  date: "August 09-10, 2027"
   description: 20th USENIX WOOT Conference on Offensive Technologies
-  link: https://www.usenix.org/conference/woot26
+  link: https://www.usenix.org/conference/woot27
   deadline:
-    - "2025-12-12 23:59"
-    - "2026-03-03 23:59"
-  place: Baltimore, USA 
+    - "2026-12-17 23:59"
+    - "2027-03-02 23:59"
+  place: Denver, USA 
   tags: [SEC]
 
 - name: NDSS
@@ -447,8 +447,19 @@
   place: Athens, Greece
   tags: [HAR,SEC]
 
+- name: EuroSP
+  year: 2027
+  date: "July 6-10, 2027"
+  description: 12th IEEE European Symposium on Security and Privacy  
+  link: https://eurosp2027.ieee-security.org/
+  deadline:
+    - "2026-11-13 23:59"
+    - "2026-11-20 23:59"
+  place: Madrid, Spain
+  tags: [SEC]
+
 - name: SP
-  year: 2026
+  year: 2027
   date: "May 18-21, 2027"
   description: IEEE Symposium on Security and Privacy 
   link: https://sp2027.ieee-security.org/index.html
@@ -475,7 +486,7 @@
   link: https://www.usenix.org/conference/usenixsecurity27   
   deadline:
     - "2026-08-18 23:59"
-    - "2026-08-25 23:59"
+    - "2027-01-26 23:59"
   place: Denver, USA
   tags: [SEC]
 
@@ -490,16 +501,16 @@
   tags: [HAR,SEC]
 
 - name: CHES
-  year: 2026
-  date: "October 11-15, 2026"
+  year: 2027
+  date: "September 6-9, 2027"
   description: Conference on Cryptographic Hardware and Embedded Systems
   link: https://ches.iacr.org    
   deadline:
-    - "2025-07-15 23:59"
-    - "2025-10-15 23:59"
-    - "2026-01-15 23:59"
-    - "2026-04-15 23:59"
-  place: Turkiye 
+    - "2026-07-15 23:59"
+    - "2026-10-15 23:59"
+    - "2027-01-15 23:59"
+    - "2027-04-15 23:59"
+  place: Cancun, Mexico 
   tags: [HAR,SEC]
 
 - name: DLS
@@ -513,25 +524,23 @@
   tags: [VMOS]
 
 - name: VMIL
-  year: 2025
-  date: "October 12-18, 2025"
+  year: 2026
+  date: "October 3-9, 2026"
   description: Workshop on Virtual Machines and Language Implementations
-  link: https://conf.researchr.org/home/icfp-splash-2025/vmil-2025  
+  link: https://conf.researchr.org/home/splash-issta-2026/vmil-2026  
   deadline:
-    - "2025-07-14 23:59"
-    - "2025-07-21 23:59"
-  comment: Abstract on Jul 14 / Paper on Jul 21
-  place: Singapore, Singapore
+    - "2026-08-14 23:59"
+  place: Oakland, United States
   tags: [VMOS]
 
 - name: PLDI
-  year: 2026
-  date: "June 15-19, 2026"
-  description: 47th ACM SIGPLAN Conference on Programming Language Design and Implementation
-  link: https://pldi26.sigplan.org/ 
+  year: 2027
+  date: "June 05-11, 2027"
+  description: 48th ACM SIGPLAN Conference on Programming Language Design and Implementation
+  link: https://pldi27.sigplan.org/
   deadline:
-    - "2025-11-14 23:59"
-  place: Boulder, USA
+    - "2026-11-12 23:59"
+  place: Atlanta, USA
   tags: [VMOS]
 
 - name: VEE
@@ -605,7 +614,7 @@
   description: Workshop on Design and Architectures for Signal and Image Processing
   link: https://dasip-2027.github.io/
   deadline:
-    - "2026-08-18 23:59"
-    - "2026-10-20 23:59"
+    - "2026-08-26 23:59"
+    - "2026-11-10 23:59"
   place: Glasgow, Scotland
   tags: [HAR]
